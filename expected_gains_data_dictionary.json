@@ -1,0 +1,1 @@
+{"Character": "varchar(50)", "Class": "varchar(50)", "HP": "int", "Str": "int", "Mag": "int", "Dex": "int", "Spd": "int", "Def": "int", "Res": "int", "Lck": "int", "Bld": "int"}

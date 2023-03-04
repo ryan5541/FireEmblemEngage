@@ -1,0 +1,1244 @@
+Character,Class,HP,Str,Mag,Dex,Spd,Def,Res,Lck,Bld
+Alear,Dragon Child,14,9,4,11,13,10,7,6,2
+Alear,Divine Dragon,14,9,4,11,13,11,8,7,2
+Alear,Sword Fighter,14,9,4,12,14,8,8,7,1
+Alear,Swordmaster,14,9,4,12,14,8,8,8,1
+Alear,Hero,15,10,4,11,13,8,7,8,1
+Alear,Lance Fighter,14,9,5,13,11,10,6,5,1
+Alear,Halberdier,14,10,5,13,12,11,6,6,1
+Alear,Royal Knight,13,9,7,12,13,9,9,7,1
+Alear,Axe Fighter,17,11,4,10,12,9,5,5,2
+Alear,Berserker,18,13,4,10,12,9,5,5,3
+Alear,Warrior,17,11,4,11,13,10,6,5,2
+Alear,Archer,14,10,4,14,12,9,5,6,1
+Alear,Sniper,15,10,4,15,12,10,5,7,1
+Alear,Bow Knight,14,9,4,13,14,8,8,8,1
+Alear,Sword Armor,16,10,4,11,10,14,5,5,2
+Alear,Lance Armor,16,10,4,11,10,14,5,5,2
+Alear,Axe Armor,16,10,4,11,10,14,5,5,2
+Alear,General,17,11,4,11,10,14,5,5,3
+Alear,Great Knight,16,10,4,12,10,13,7,6,2
+Alear,Sword Cavalier,14,9,4,11,12,10,7,7,1
+Alear,Lance Cavalier,14,9,4,11,12,10,7,7,1
+Alear,Axe Cavalier,14,9,4,11,12,10,7,7,1
+Alear,Paladin,15,10,4,11,13,11,8,7,1
+Alear,Wolf Knight,14,8,4,12,14,9,9,9,1
+Alear,Mage,12,7,9,10,10,8,10,6,1
+Alear,Sage,12,7,10,10,10,8,11,8,1
+Alear,Mage Knight,13,8,9,9,11,10,10,6,1
+Alear,Martial Monk,12,9,9,9,10,10,9,7,1
+Alear,Martial Master,13,9,8,9,10,11,10,7,1
+Alear,High Priest,12,7,9,9,11,8,11,11,1
+Alear,Sword Flier,13,9,5,11,12,8,7,7,1
+Alear,Lance Flier,13,9,5,11,12,8,7,7,1
+Alear,Axe Flier,13,9,5,11,12,8,7,7,1
+Alear,Griffin Knight,12,9,7,12,14,8,8,8,1
+Alear,Wyvern Knight,16,11,4,11,11,12,6,6,2
+Alear,Thief,13,9,4,13,13,11,6,8,1
+Vander,Sword Fighter,14,7,2,8,11,7,7,4,1
+Vander,Swordmaster,14,7,2,8,11,7,7,5,1
+Vander,Hero,15,8,2,7,10,7,6,5,1
+Vander,Lance Fighter,14,7,3,9,8,9,5,2,1
+Vander,Halberdier,14,8,3,9,9,10,5,3,1
+Vander,Royal Knight,13,7,5,8,10,8,8,4,1
+Vander,Axe Fighter,17,9,2,6,9,8,4,2,2
+Vander,Berserker,18,11,2,6,9,8,4,2,3
+Vander,Warrior,17,9,2,7,10,9,5,2,2
+Vander,Archer,14,8,2,10,9,8,4,3,1
+Vander,Sniper,15,8,2,11,9,9,4,4,1
+Vander,Bow Knight,14,7,2,9,11,7,7,5,1
+Vander,Sword Armor,16,8,2,7,7,13,4,2,2
+Vander,Lance Armor,16,8,2,7,7,13,4,2,2
+Vander,Axe Armor,16,8,2,7,7,13,4,2,2
+Vander,General,17,9,2,7,7,13,4,2,3
+Vander,Great Knight,16,8,2,8,7,12,6,3,2
+Vander,Sword Cavalier,14,7,2,7,9,9,6,4,1
+Vander,Lance Cavalier,14,7,2,7,9,9,6,4,1
+Vander,Axe Cavalier,14,7,2,7,9,9,6,4,1
+Vander,Paladin,15,8,2,7,10,10,7,4,1
+Vander,Wolf Knight,14,6,2,8,11,8,8,6,1
+Vander,Mage,12,5,7,6,7,7,9,3,1
+Vander,Sage,12,5,8,6,7,7,10,5,1
+Vander,Mage Knight,13,6,7,5,8,9,9,3,1
+Vander,Martial Monk,12,7,7,5,7,9,8,4,1
+Vander,Martial Master,13,7,6,5,7,10,9,4,1
+Vander,High Priest,12,5,7,5,8,7,10,8,1
+Vander,Sword Flier,13,7,3,7,9,7,6,4,1
+Vander,Lance Flier,13,7,3,7,9,7,6,4,1
+Vander,Axe Flier,13,7,3,7,9,7,6,4,1
+Vander,Griffin Knight,12,7,5,8,11,7,7,5,1
+Vander,Wyvern Knight,16,9,2,7,8,11,5,3,2
+Vander,Thief,13,7,2,9,10,10,5,5,1
+Clanne,Sword Fighter,10,9,2,11,14,6,8,6,1
+Clanne,Swordmaster,10,9,2,11,14,6,8,7,1
+Clanne,Hero,11,10,2,10,13,6,7,7,1
+Clanne,Lance Fighter,10,9,3,12,11,8,6,4,1
+Clanne,Halberdier,10,10,3,12,12,9,6,5,1
+Clanne,Royal Knight,9,9,5,11,13,7,9,6,1
+Clanne,Axe Fighter,13,11,2,9,12,7,5,4,2
+Clanne,Berserker,14,13,2,9,12,7,5,4,3
+Clanne,Warrior,13,11,2,10,13,8,6,4,2
+Clanne,Archer,10,10,2,13,12,7,5,5,1
+Clanne,Sniper,11,10,2,14,12,8,5,6,1
+Clanne,Bow Knight,10,9,2,12,14,6,8,7,1
+Clanne,Sword Armor,12,10,2,10,10,12,5,4,2
+Clanne,Lance Armor,12,10,2,10,10,12,5,4,2
+Clanne,Axe Armor,12,10,2,10,10,12,5,4,2
+Clanne,General,13,11,2,10,10,12,5,4,3
+Clanne,Great Knight,12,10,2,11,10,11,7,5,2
+Clanne,Sword Cavalier,10,9,2,10,12,8,7,6,1
+Clanne,Lance Cavalier,10,9,2,10,12,8,7,6,1
+Clanne,Axe Cavalier,10,9,2,10,12,8,7,6,1
+Clanne,Paladin,11,10,2,10,13,9,8,6,1
+Clanne,Wolf Knight,10,8,2,11,14,7,9,8,1
+Clanne,Mage,8,7,7,9,10,6,10,5,1
+Clanne,Sage,8,7,8,9,10,6,11,7,1
+Clanne,Mage Knight,9,8,7,8,11,8,10,5,1
+Clanne,Martial Monk,8,9,7,8,10,8,9,6,1
+Clanne,Martial Master,9,9,6,8,10,9,10,6,1
+Clanne,High Priest,8,7,7,8,11,6,11,10,1
+Clanne,Sword Flier,9,9,3,10,12,6,7,6,1
+Clanne,Lance Flier,9,9,3,10,12,6,7,6,1
+Clanne,Axe Flier,9,9,3,10,12,6,7,6,1
+Clanne,Griffin Knight,8,9,5,11,14,6,8,7,1
+Clanne,Wyvern Knight,12,11,2,10,11,10,6,5,2
+Clanne,Thief,9,9,2,12,13,9,6,7,1
+Framme,Sword Fighter,13,8,5,10,15,5,9,7,0
+Framme,Swordmaster,13,8,5,10,15,5,9,8,0
+Framme,Hero,14,9,5,9,14,5,8,8,0
+Framme,Lance Fighter,13,8,6,11,12,7,7,5,0
+Framme,Halberdier,13,9,6,11,13,8,7,6,0
+Framme,Royal Knight,12,8,8,10,14,6,10,7,0
+Framme,Axe Fighter,16,10,5,8,13,6,6,5,1
+Framme,Berserker,17,12,5,8,13,6,6,5,2
+Framme,Warrior,16,10,5,9,14,7,7,5,1
+Framme,Archer,13,9,5,12,13,6,6,6,0
+Framme,Sniper,14,9,5,13,13,7,6,7,0
+Framme,Bow Knight,13,8,5,11,15,5,9,8,0
+Framme,Sword Armor,15,9,5,9,11,11,6,5,1
+Framme,Lance Armor,15,9,5,9,11,11,6,5,1
+Framme,Axe Armor,15,9,5,9,11,11,6,5,1
+Framme,General,16,10,5,9,11,11,6,5,2
+Framme,Great Knight,15,9,5,10,11,10,8,6,1
+Framme,Sword Cavalier,13,8,5,9,13,7,8,7,0
+Framme,Lance Cavalier,13,8,5,9,13,7,8,7,0
+Framme,Axe Cavalier,13,8,5,9,13,7,8,7,0
+Framme,Paladin,14,9,5,9,14,8,9,7,0
+Framme,Wolf Knight,13,7,5,10,15,6,10,9,0
+Framme,Mage,11,6,10,8,11,5,11,6,0
+Framme,Sage,11,6,11,8,11,5,12,8,0
+Framme,Mage Knight,12,7,10,7,12,7,11,6,0
+Framme,Martial Monk,11,8,10,7,11,7,10,7,0
+Framme,Martial Master,12,8,9,7,11,8,11,7,0
+Framme,High Priest,11,6,10,7,12,5,12,11,0
+Framme,Sword Flier,12,8,6,9,13,5,8,7,0
+Framme,Lance Flier,12,8,6,9,13,5,8,7,0
+Framme,Axe Flier,12,8,6,9,13,5,8,7,0
+Framme,Griffin Knight,11,8,8,10,15,5,9,8,0
+Framme,Wyvern Knight,15,10,5,9,12,9,7,6,1
+Framme,Thief,12,8,5,11,14,8,7,8,0
+Alfred,Noble (Alfred),16,11,1,8,9,12,5,11,2
+Alfred,Avenir,16,11,1,8,10,13,5,12,3
+Alfred,Sword Fighter,15,10,1,10,12,8,7,10,2
+Alfred,Swordmaster,15,10,1,10,12,8,7,11,2
+Alfred,Hero,16,11,1,9,11,8,6,11,2
+Alfred,Lance Fighter,15,10,2,11,9,10,5,8,2
+Alfred,Halberdier,15,11,2,11,10,11,5,9,2
+Alfred,Royal Knight,14,10,4,10,11,9,8,10,2
+Alfred,Axe Fighter,18,12,1,8,10,9,4,8,3
+Alfred,Berserker,19,14,1,8,10,9,4,8,4
+Alfred,Warrior,18,12,1,9,11,10,5,8,3
+Alfred,Archer,15,11,1,12,10,9,4,9,2
+Alfred,Sniper,16,11,1,13,10,10,4,10,2
+Alfred,Bow Knight,15,10,1,11,12,8,7,11,2
+Alfred,Sword Armor,17,11,1,9,8,14,4,8,3
+Alfred,Lance Armor,17,11,1,9,8,14,4,8,3
+Alfred,Axe Armor,17,11,1,9,8,14,4,8,3
+Alfred,General,18,12,1,9,8,14,4,8,4
+Alfred,Great Knight,17,11,1,10,8,13,6,9,3
+Alfred,Sword Cavalier,15,10,1,9,10,10,6,10,2
+Alfred,Lance Cavalier,15,10,1,9,10,10,6,10,2
+Alfred,Axe Cavalier,15,10,1,9,10,10,6,10,2
+Alfred,Paladin,16,11,1,9,11,11,7,10,2
+Alfred,Wolf Knight,15,9,1,10,12,9,8,12,2
+Alfred,Mage,13,8,6,8,8,8,9,9,2
+Alfred,Sage,13,8,7,8,8,8,10,11,2
+Alfred,Mage Knight,14,9,6,7,9,10,9,9,2
+Alfred,Martial Monk,13,10,6,7,8,10,8,10,2
+Alfred,Martial Master,14,10,5,7,8,11,9,10,2
+Alfred,High Priest,13,8,6,7,9,8,10,14,2
+Alfred,Sword Flier,14,10,2,9,10,8,6,10,2
+Alfred,Lance Flier,14,10,2,9,10,8,6,10,2
+Alfred,Axe Flier,14,10,2,9,10,8,6,10,2
+Alfred,Griffin Knight,13,10,4,10,12,8,7,11,2
+Alfred,Wyvern Knight,17,12,1,9,9,12,5,9,3
+Alfred,Thief,14,10,1,11,11,11,5,11,2
+Etie,Sword Fighter,11,10,0,8,11,5,9,7,1
+Etie,Swordmaster,11,10,0,8,11,5,9,8,1
+Etie,Hero,12,11,0,7,10,5,8,8,1
+Etie,Lance Fighter,11,10,1,9,8,7,7,5,1
+Etie,Halberdier,11,11,1,9,9,8,7,6,1
+Etie,Royal Knight,10,10,3,8,10,6,10,7,1
+Etie,Axe Fighter,14,12,0,6,9,6,6,5,2
+Etie,Berserker,15,14,0,6,9,6,6,5,3
+Etie,Warrior,14,12,0,7,10,7,7,5,2
+Etie,Archer,11,11,0,10,9,6,6,6,1
+Etie,Sniper,12,11,0,11,9,7,6,7,1
+Etie,Bow Knight,11,10,0,9,11,5,9,8,1
+Etie,Sword Armor,13,11,0,7,7,11,6,5,2
+Etie,Lance Armor,13,11,0,7,7,11,6,5,2
+Etie,Axe Armor,13,11,0,7,7,11,6,5,2
+Etie,General,14,12,0,7,7,11,6,5,3
+Etie,Great Knight,13,11,0,8,7,10,8,6,2
+Etie,Sword Cavalier,11,10,0,7,9,7,8,7,1
+Etie,Lance Cavalier,11,10,0,7,9,7,8,7,1
+Etie,Axe Cavalier,11,10,0,7,9,7,8,7,1
+Etie,Paladin,12,11,0,7,10,8,9,7,1
+Etie,Wolf Knight,11,9,0,8,11,6,10,9,1
+Etie,Mage,9,8,5,6,7,5,11,6,1
+Etie,Sage,9,8,6,6,7,5,12,8,1
+Etie,Mage Knight,10,9,5,5,8,7,11,6,1
+Etie,Martial Monk,9,10,5,5,7,7,10,7,1
+Etie,Martial Master,10,10,4,5,7,8,11,7,1
+Etie,High Priest,9,8,5,5,8,5,12,11,1
+Etie,Sword Flier,10,10,1,7,9,5,8,7,1
+Etie,Lance Flier,10,10,1,7,9,5,8,7,1
+Etie,Axe Flier,10,10,1,7,9,5,8,7,1
+Etie,Griffin Knight,9,10,3,8,11,5,9,8,1
+Etie,Wyvern Knight,13,12,0,7,8,9,7,6,2
+Etie,Thief,10,10,0,9,10,8,7,8,1
+Boucheron,Sword Fighter,19,6,0,13,13,7,7,5,4
+Boucheron,Swordmaster,19,6,0,13,13,7,7,6,4
+Boucheron,Hero,20,7,0,12,12,7,6,6,4
+Boucheron,Lance Fighter,19,6,1,14,10,9,5,3,4
+Boucheron,Halberdier,19,7,1,14,11,10,5,4,4
+Boucheron,Royal Knight,18,6,3,13,12,8,8,5,4
+Boucheron,Axe Fighter,22,8,0,11,11,8,4,3,5
+Boucheron,Berserker,23,10,0,11,11,8,4,3,6
+Boucheron,Warrior,22,8,0,12,12,9,5,3,5
+Boucheron,Archer,19,7,0,15,11,8,4,4,4
+Boucheron,Sniper,20,7,0,16,11,9,4,5,4
+Boucheron,Bow Knight,19,6,0,14,13,7,7,6,4
+Boucheron,Sword Armor,21,7,0,12,9,13,4,3,5
+Boucheron,Lance Armor,21,7,0,12,9,13,4,3,5
+Boucheron,Axe Armor,21,7,0,12,9,13,4,3,5
+Boucheron,General,22,8,0,12,9,13,4,3,6
+Boucheron,Great Knight,21,7,0,13,9,12,6,4,5
+Boucheron,Sword Cavalier,19,6,0,12,11,9,6,5,4
+Boucheron,Lance Cavalier,19,6,0,12,11,9,6,5,4
+Boucheron,Axe Cavalier,19,6,0,12,11,9,6,5,4
+Boucheron,Paladin,20,7,0,12,12,10,7,5,4
+Boucheron,Wolf Knight,19,5,0,13,13,8,8,7,4
+Boucheron,Mage,17,4,5,11,9,7,9,4,4
+Boucheron,Sage,17,4,6,11,9,7,10,6,4
+Boucheron,Mage Knight,18,5,5,10,10,9,9,4,4
+Boucheron,Martial Monk,17,6,5,10,9,9,8,5,4
+Boucheron,Martial Master,18,6,4,10,9,10,9,5,4
+Boucheron,High Priest,17,4,5,10,10,7,10,9,4
+Boucheron,Sword Flier,18,6,1,12,11,7,6,5,4
+Boucheron,Lance Flier,18,6,1,12,11,7,6,5,4
+Boucheron,Axe Flier,18,6,1,12,11,7,6,5,4
+Boucheron,Griffin Knight,17,6,3,13,13,7,7,6,4
+Boucheron,Wyvern Knight,21,8,0,12,10,11,5,4,5
+Boucheron,Thief,18,6,0,14,12,10,5,6,4
+Celine,Noble (Celine),10,8,7,7,10,7,10,14,1
+Celine,Vidame,11,9,8,7,10,7,11,14,1
+Celine,Sword Fighter,12,9,5,9,13,6,11,12,1
+Celine,Swordmaster,12,9,5,9,13,6,11,13,1
+Celine,Hero,13,10,5,8,12,6,10,13,1
+Celine,Lance Fighter,12,9,6,10,10,8,9,10,1
+Celine,Halberdier,12,10,6,10,11,9,9,11,1
+Celine,Royal Knight,11,9,8,9,12,7,12,12,1
+Celine,Axe Fighter,15,11,5,7,11,7,8,10,2
+Celine,Berserker,16,13,5,7,11,7,8,10,3
+Celine,Warrior,15,11,5,8,12,8,9,10,2
+Celine,Archer,12,10,5,11,11,7,8,11,1
+Celine,Sniper,13,10,5,12,11,8,8,12,1
+Celine,Bow Knight,12,9,5,10,13,6,11,13,1
+Celine,Sword Armor,14,10,5,8,9,12,8,10,2
+Celine,Lance Armor,14,10,5,8,9,12,8,10,2
+Celine,Axe Armor,14,10,5,8,9,12,8,10,2
+Celine,General,15,11,5,8,9,12,8,10,3
+Celine,Great Knight,14,10,5,9,9,11,10,11,2
+Celine,Sword Cavalier,12,9,5,8,11,8,10,12,1
+Celine,Lance Cavalier,12,9,5,8,11,8,10,12,1
+Celine,Axe Cavalier,12,9,5,8,11,8,10,12,1
+Celine,Paladin,13,10,5,8,12,9,11,12,1
+Celine,Wolf Knight,12,8,5,9,13,7,12,14,1
+Celine,Mage,10,7,10,7,9,6,13,11,1
+Celine,Sage,10,7,11,7,9,6,14,13,1
+Celine,Mage Knight,11,8,10,6,10,8,13,11,1
+Celine,Martial Monk,10,9,10,6,9,8,12,12,1
+Celine,Martial Master,11,9,9,6,9,9,13,12,1
+Celine,High Priest,10,7,10,6,10,6,14,16,1
+Celine,Sword Flier,11,9,6,8,11,6,10,12,1
+Celine,Lance Flier,11,9,6,8,11,6,10,12,1
+Celine,Axe Flier,11,9,6,8,11,6,10,12,1
+Celine,Griffin Knight,10,9,8,9,13,6,11,13,1
+Celine,Wyvern Knight,14,11,5,8,10,10,9,11,2
+Celine,Thief,11,9,5,10,12,9,9,13,1
+Chloe,Sword Fighter,17,7,7,11,15,6,8,7,1
+Chloe,Swordmaster,17,7,7,11,15,6,8,8,1
+Chloe,Hero,18,8,7,10,14,6,7,8,1
+Chloe,Lance Fighter,17,7,8,12,12,8,6,5,1
+Chloe,Halberdier,17,8,8,12,13,9,6,6,1
+Chloe,Royal Knight,16,7,10,11,14,7,9,7,1
+Chloe,Axe Fighter,20,9,7,9,13,7,5,5,2
+Chloe,Berserker,21,11,7,9,13,7,5,5,3
+Chloe,Warrior,20,9,7,10,14,8,6,5,2
+Chloe,Archer,17,8,7,13,13,7,5,6,1
+Chloe,Sniper,18,8,7,14,13,8,5,7,1
+Chloe,Bow Knight,17,7,7,12,15,6,8,8,1
+Chloe,Sword Armor,19,8,7,10,11,12,5,5,2
+Chloe,Lance Armor,19,8,7,10,11,12,5,5,2
+Chloe,Axe Armor,19,8,7,10,11,12,5,5,2
+Chloe,General,20,9,7,10,11,12,5,5,3
+Chloe,Great Knight,19,8,7,11,11,11,7,6,2
+Chloe,Sword Cavalier,17,7,7,10,13,8,7,7,1
+Chloe,Lance Cavalier,17,7,7,10,13,8,7,7,1
+Chloe,Axe Cavalier,17,7,7,10,13,8,7,7,1
+Chloe,Paladin,18,8,7,10,14,9,8,7,1
+Chloe,Wolf Knight,17,6,7,11,15,7,9,9,1
+Chloe,Mage,15,5,12,9,11,6,10,6,1
+Chloe,Sage,15,5,13,9,11,6,11,8,1
+Chloe,Mage Knight,16,6,12,8,12,8,10,6,1
+Chloe,Martial Monk,15,7,12,8,11,8,9,7,1
+Chloe,Martial Master,16,7,11,8,11,9,10,7,1
+Chloe,High Priest,15,5,12,8,12,6,11,11,1
+Chloe,Sword Flier,16,7,8,10,13,6,7,7,1
+Chloe,Lance Flier,16,7,8,10,13,6,7,7,1
+Chloe,Axe Flier,16,7,8,10,13,6,7,7,1
+Chloe,Griffin Knight,15,7,10,11,15,6,8,8,1
+Chloe,Wyvern Knight,19,9,7,10,12,10,6,6,2
+Chloe,Thief,16,7,7,12,14,9,6,8,1
+Louis,Sword Fighter,17,10,0,8,9,10,7,7,3
+Louis,Swordmaster,17,10,0,8,9,10,7,8,3
+Louis,Hero,18,11,0,7,8,10,6,8,3
+Louis,Lance Fighter,17,10,1,9,6,12,5,5,3
+Louis,Halberdier,17,11,1,9,7,13,5,6,3
+Louis,Royal Knight,16,10,3,8,8,11,8,7,3
+Louis,Axe Fighter,20,12,0,6,7,11,4,5,4
+Louis,Berserker,21,14,0,6,7,11,4,5,5
+Louis,Warrior,20,12,0,7,8,12,5,5,4
+Louis,Archer,17,11,0,10,7,11,4,6,3
+Louis,Sniper,18,11,0,11,7,12,4,7,3
+Louis,Bow Knight,17,10,0,9,9,10,7,8,3
+Louis,Sword Armor,19,11,0,7,5,16,4,5,4
+Louis,Lance Armor,19,11,0,7,5,16,4,5,4
+Louis,Axe Armor,19,11,0,7,5,16,4,5,4
+Louis,General,20,12,0,7,5,16,4,5,5
+Louis,Great Knight,19,11,0,8,5,15,6,6,4
+Louis,Sword Cavalier,17,10,0,7,7,12,6,7,3
+Louis,Lance Cavalier,17,10,0,7,7,12,6,7,3
+Louis,Axe Cavalier,17,10,0,7,7,12,6,7,3
+Louis,Paladin,18,11,0,7,8,13,7,7,3
+Louis,Wolf Knight,17,9,0,8,9,11,8,9,3
+Louis,Mage,15,8,5,6,5,10,9,6,3
+Louis,Sage,15,8,6,6,5,10,10,8,3
+Louis,Mage Knight,16,9,5,5,6,12,9,6,3
+Louis,Martial Monk,15,10,5,5,5,12,8,7,3
+Louis,Martial Master,16,10,4,5,5,13,9,7,3
+Louis,High Priest,15,8,5,5,6,10,10,11,3
+Louis,Sword Flier,16,10,1,7,7,10,6,7,3
+Louis,Lance Flier,16,10,1,7,7,10,6,7,3
+Louis,Axe Flier,16,10,1,7,7,10,6,7,3
+Louis,Griffin Knight,15,10,3,8,9,10,7,8,3
+Louis,Wyvern Knight,19,12,0,7,6,14,5,6,4
+Louis,Thief,16,10,0,9,8,13,5,8,3
+Yunaka,Sword Fighter,12,9,5,11,13,3,12,7,1
+Yunaka,Swordmaster,12,9,5,11,13,3,12,8,1
+Yunaka,Hero,13,10,5,10,12,3,11,8,1
+Yunaka,Lance Fighter,12,9,6,12,10,5,10,5,1
+Yunaka,Halberdier,12,10,6,12,11,6,10,6,1
+Yunaka,Royal Knight,11,9,8,11,12,4,13,7,1
+Yunaka,Axe Fighter,15,11,5,9,11,4,9,5,2
+Yunaka,Berserker,16,13,5,9,11,4,9,5,3
+Yunaka,Warrior,15,11,5,10,12,5,10,5,2
+Yunaka,Archer,12,10,5,13,11,4,9,6,1
+Yunaka,Sniper,13,10,5,14,11,5,9,7,1
+Yunaka,Bow Knight,12,9,5,12,13,3,12,8,1
+Yunaka,Sword Armor,14,10,5,10,9,9,9,5,2
+Yunaka,Lance Armor,14,10,5,10,9,9,9,5,2
+Yunaka,Axe Armor,14,10,5,10,9,9,9,5,2
+Yunaka,General,15,11,5,10,9,9,9,5,3
+Yunaka,Great Knight,14,10,5,11,9,8,11,6,2
+Yunaka,Sword Cavalier,12,9,5,10,11,5,11,7,1
+Yunaka,Lance Cavalier,12,9,5,10,11,5,11,7,1
+Yunaka,Axe Cavalier,12,9,5,10,11,5,11,7,1
+Yunaka,Paladin,13,10,5,10,12,6,12,7,1
+Yunaka,Wolf Knight,12,8,5,11,13,4,13,9,1
+Yunaka,Mage,10,7,10,9,9,3,14,6,1
+Yunaka,Sage,10,7,11,9,9,3,15,8,1
+Yunaka,Mage Knight,11,8,10,8,10,5,14,6,1
+Yunaka,Martial Monk,10,9,10,8,9,5,13,7,1
+Yunaka,Martial Master,11,9,9,8,9,6,14,7,1
+Yunaka,High Priest,10,7,10,8,10,3,15,11,1
+Yunaka,Sword Flier,11,9,6,10,11,3,11,7,1
+Yunaka,Lance Flier,11,9,6,10,11,3,11,7,1
+Yunaka,Axe Flier,11,9,6,10,11,3,11,7,1
+Yunaka,Griffin Knight,10,9,8,11,13,3,12,8,1
+Yunaka,Wyvern Knight,14,11,5,10,10,7,10,6,2
+Yunaka,Thief,11,9,5,12,12,6,10,8,1
+Alcryst,Lord (Alcryst),15,8,2,13,11,8,4,4,2
+Alcryst,Tireur d' Elite,15,8,2,14,11,9,5,4,2
+Alcryst,Sword Fighter,15,8,2,11,13,6,7,5,2
+Alcryst,Swordmaster,15,8,2,11,13,6,7,6,2
+Alcryst,Hero,16,9,2,10,12,6,6,6,2
+Alcryst,Lance Fighter,15,8,3,12,10,8,5,3,2
+Alcryst,Halberdier,15,9,3,12,11,9,5,4,2
+Alcryst,Royal Knight,14,8,5,11,12,7,8,5,2
+Alcryst,Axe Fighter,18,10,2,9,11,7,4,3,3
+Alcryst,Berserker,19,12,2,9,11,7,4,3,4
+Alcryst,Warrior,18,10,2,10,12,8,5,3,3
+Alcryst,Archer,15,9,2,13,11,7,4,4,2
+Alcryst,Sniper,16,9,2,14,11,8,4,5,2
+Alcryst,Bow Knight,15,8,2,12,13,6,7,6,2
+Alcryst,Sword Armor,17,9,2,10,9,12,4,3,3
+Alcryst,Lance Armor,17,9,2,10,9,12,4,3,3
+Alcryst,Axe Armor,17,9,2,10,9,12,4,3,3
+Alcryst,General,18,10,2,10,9,12,4,3,4
+Alcryst,Great Knight,17,9,2,11,9,11,6,4,3
+Alcryst,Sword Cavalier,15,8,2,10,11,8,6,5,2
+Alcryst,Lance Cavalier,15,8,2,10,11,8,6,5,2
+Alcryst,Axe Cavalier,15,8,2,10,11,8,6,5,2
+Alcryst,Paladin,16,9,2,10,12,9,7,5,2
+Alcryst,Wolf Knight,15,7,2,11,13,7,8,7,2
+Alcryst,Mage,13,6,7,9,9,6,9,4,2
+Alcryst,Sage,13,6,8,9,9,6,10,6,2
+Alcryst,Mage Knight,14,7,7,8,10,8,9,4,2
+Alcryst,Martial Monk,13,8,7,8,9,8,8,5,2
+Alcryst,Martial Master,14,8,6,8,9,9,9,5,2
+Alcryst,High Priest,13,6,7,8,10,6,10,9,2
+Alcryst,Sword Flier,14,8,3,10,11,6,6,5,2
+Alcryst,Lance Flier,14,8,3,10,11,6,6,5,2
+Alcryst,Axe Flier,14,8,3,10,11,6,6,5,2
+Alcryst,Griffin Knight,13,8,5,11,13,6,7,6,2
+Alcryst,Wyvern Knight,17,10,2,10,10,10,5,4,3
+Alcryst,Thief,14,8,2,12,12,9,5,6,2
+Citrinne,Sword Fighter,11,4,8,8,10,4,11,7,1
+Citrinne,Swordmaster,11,4,8,8,10,4,11,8,1
+Citrinne,Hero,12,5,8,7,9,4,10,8,1
+Citrinne,Lance Fighter,11,4,9,9,7,6,9,5,1
+Citrinne,Halberdier,11,5,9,9,8,7,9,6,1
+Citrinne,Royal Knight,10,4,11,8,9,5,12,7,1
+Citrinne,Axe Fighter,14,6,8,6,8,5,8,5,2
+Citrinne,Berserker,15,8,8,6,8,5,8,5,3
+Citrinne,Warrior,14,6,8,7,9,6,9,5,2
+Citrinne,Archer,11,5,8,10,8,5,8,6,1
+Citrinne,Sniper,12,5,8,11,8,6,8,7,1
+Citrinne,Bow Knight,11,4,8,9,10,4,11,8,1
+Citrinne,Sword Armor,13,5,8,7,6,10,8,5,2
+Citrinne,Lance Armor,13,5,8,7,6,10,8,5,2
+Citrinne,Axe Armor,13,5,8,7,6,10,8,5,2
+Citrinne,General,14,6,8,7,6,10,8,5,3
+Citrinne,Great Knight,13,5,8,8,6,9,10,6,2
+Citrinne,Sword Cavalier,11,4,8,7,8,6,10,7,1
+Citrinne,Lance Cavalier,11,4,8,7,8,6,10,7,1
+Citrinne,Axe Cavalier,11,4,8,7,8,6,10,7,1
+Citrinne,Paladin,12,5,8,7,9,7,11,7,1
+Citrinne,Wolf Knight,11,3,8,8,10,5,12,9,1
+Citrinne,Mage,9,2,13,6,6,4,13,6,1
+Citrinne,Sage,9,2,14,6,6,4,14,8,1
+Citrinne,Mage Knight,10,3,13,5,7,6,13,6,1
+Citrinne,Martial Monk,9,4,13,5,6,6,12,7,1
+Citrinne,Martial Master,10,4,12,5,6,7,13,7,1
+Citrinne,High Priest,9,2,13,5,7,4,14,11,1
+Citrinne,Sword Flier,10,4,9,7,8,4,10,7,1
+Citrinne,Lance Flier,10,4,9,7,8,4,10,7,1
+Citrinne,Axe Flier,10,4,9,7,8,4,10,7,1
+Citrinne,Griffin Knight,9,4,11,8,10,4,11,8,1
+Citrinne,Wyvern Knight,13,6,8,7,7,8,9,6,2
+Citrinne,Thief,10,4,8,9,9,7,9,8,1
+Lapis,Sword Fighter,13,7,4,10,15,7,9,7,1
+Lapis,Swordmaster,13,7,4,10,15,7,9,8,1
+Lapis,Hero,14,8,4,9,14,7,8,8,1
+Lapis,Lance Fighter,13,7,5,11,12,9,7,5,1
+Lapis,Halberdier,13,8,5,11,13,10,7,6,1
+Lapis,Royal Knight,12,7,7,10,14,8,10,7,1
+Lapis,Axe Fighter,16,9,4,8,13,8,6,5,2
+Lapis,Berserker,17,11,4,8,13,8,6,5,3
+Lapis,Warrior,16,9,4,9,14,9,7,5,2
+Lapis,Archer,13,8,4,12,13,8,6,6,1
+Lapis,Sniper,14,8,4,13,13,9,6,7,1
+Lapis,Bow Knight,13,7,4,11,15,7,9,8,1
+Lapis,Sword Armor,15,8,4,9,11,13,6,5,2
+Lapis,Lance Armor,15,8,4,9,11,13,6,5,2
+Lapis,Axe Armor,15,8,4,9,11,13,6,5,2
+Lapis,General,16,9,4,9,11,13,6,5,3
+Lapis,Great Knight,15,8,4,10,11,12,8,6,2
+Lapis,Sword Cavalier,13,7,4,9,13,9,8,7,1
+Lapis,Lance Cavalier,13,7,4,9,13,9,8,7,1
+Lapis,Axe Cavalier,13,7,4,9,13,9,8,7,1
+Lapis,Paladin,14,8,4,9,14,10,9,7,1
+Lapis,Wolf Knight,13,6,4,10,15,8,10,9,1
+Lapis,Mage,11,5,9,8,11,7,11,6,1
+Lapis,Sage,11,5,10,8,11,7,12,8,1
+Lapis,Mage Knight,12,6,9,7,12,9,11,6,1
+Lapis,Martial Monk,11,7,9,7,11,9,10,7,1
+Lapis,Martial Master,12,7,8,7,11,10,11,7,1
+Lapis,High Priest,11,5,9,7,12,7,12,11,1
+Lapis,Sword Flier,12,7,5,9,13,7,8,7,1
+Lapis,Lance Flier,12,7,5,9,13,7,8,7,1
+Lapis,Axe Flier,12,7,5,9,13,7,8,7,1
+Lapis,Griffin Knight,11,7,7,10,15,7,9,8,1
+Lapis,Wyvern Knight,15,9,4,9,12,11,7,6,2
+Lapis,Thief,12,7,4,11,14,10,7,8,1
+Diamant,Lord (Diamant),18,10,3,6,10,10,5,5,3
+Diamant,Successeur,18,10,3,6,11,11,5,6,4
+Diamant,Sword Fighter,17,8,3,7,12,8,8,6,3
+Diamant,Swordmaster,17,8,3,7,12,8,8,7,3
+Diamant,Hero,18,9,3,6,11,8,7,7,3
+Diamant,Lance Fighter,17,8,4,8,9,10,6,4,3
+Diamant,Halberdier,17,9,4,8,10,11,6,5,3
+Diamant,Royal Knight,16,8,6,7,11,9,9,6,3
+Diamant,Axe Fighter,20,10,3,5,10,9,5,4,4
+Diamant,Berserker,21,12,3,5,10,9,5,4,5
+Diamant,Warrior,20,10,3,6,11,10,6,4,4
+Diamant,Archer,17,9,3,9,10,9,5,5,3
+Diamant,Sniper,18,9,3,10,10,10,5,6,3
+Diamant,Bow Knight,17,8,3,8,12,8,8,7,3
+Diamant,Sword Armor,19,9,3,6,8,14,5,4,4
+Diamant,Lance Armor,19,9,3,6,8,14,5,4,4
+Diamant,Axe Armor,19,9,3,6,8,14,5,4,4
+Diamant,General,20,10,3,6,8,14,5,4,5
+Diamant,Great Knight,19,9,3,7,8,13,7,5,4
+Diamant,Sword Cavalier,17,8,3,6,10,10,7,6,3
+Diamant,Lance Cavalier,17,8,3,6,10,10,7,6,3
+Diamant,Axe Cavalier,17,8,3,6,10,10,7,6,3
+Diamant,Paladin,18,9,3,6,11,11,8,6,3
+Diamant,Wolf Knight,17,7,3,7,12,9,9,8,3
+Diamant,Mage,15,6,8,5,8,8,10,5,3
+Diamant,Sage,15,6,9,5,8,8,11,7,3
+Diamant,Mage Knight,16,7,8,4,9,10,10,5,3
+Diamant,Martial Monk,15,8,8,4,8,10,9,6,3
+Diamant,Martial Master,16,8,7,4,8,11,10,6,3
+Diamant,High Priest,15,6,8,4,9,8,11,10,3
+Diamant,Sword Flier,16,8,4,6,10,8,7,6,3
+Diamant,Lance Flier,16,8,4,6,10,8,7,6,3
+Diamant,Axe Flier,16,8,4,6,10,8,7,6,3
+Diamant,Griffin Knight,15,8,6,7,12,8,8,7,3
+Diamant,Wyvern Knight,19,10,3,6,9,12,6,5,4
+Diamant,Thief,16,8,3,8,11,11,6,7,3
+Amber,Sword Fighter,15,11,0,8,10,7,4,9,3
+Amber,Swordmaster,15,11,0,8,10,7,4,10,3
+Amber,Hero,16,12,0,7,9,7,3,10,3
+Amber,Lance Fighter,15,11,1,9,7,9,2,7,3
+Amber,Halberdier,15,12,1,9,8,10,2,8,3
+Amber,Royal Knight,14,11,3,8,9,8,5,9,3
+Amber,Axe Fighter,18,13,0,6,8,8,1,7,4
+Amber,Berserker,19,15,0,6,8,8,1,7,5
+Amber,Warrior,18,13,0,7,9,9,2,7,4
+Amber,Archer,15,12,0,10,8,8,1,8,3
+Amber,Sniper,16,12,0,11,8,9,1,9,3
+Amber,Bow Knight,15,11,0,9,10,7,4,10,3
+Amber,Sword Armor,17,12,0,7,6,13,1,7,4
+Amber,Lance Armor,17,12,0,7,6,13,1,7,4
+Amber,Axe Armor,17,12,0,7,6,13,1,7,4
+Amber,General,18,13,0,7,6,13,1,7,5
+Amber,Great Knight,17,12,0,8,6,12,3,8,4
+Amber,Sword Cavalier,15,11,0,7,8,9,3,9,3
+Amber,Lance Cavalier,15,11,0,7,8,9,3,9,3
+Amber,Axe Cavalier,15,11,0,7,8,9,3,9,3
+Amber,Paladin,16,12,0,7,9,10,4,9,3
+Amber,Wolf Knight,15,10,0,8,10,8,5,11,3
+Amber,Mage,13,9,5,6,6,7,6,8,3
+Amber,Sage,13,9,6,6,6,7,7,10,3
+Amber,Mage Knight,14,10,5,5,7,9,6,8,3
+Amber,Martial Monk,13,11,5,5,6,9,5,9,3
+Amber,Martial Master,14,11,4,5,6,10,6,9,3
+Amber,High Priest,13,9,5,5,7,7,7,13,3
+Amber,Sword Flier,14,11,1,7,8,7,3,9,3
+Amber,Lance Flier,14,11,1,7,8,7,3,9,3
+Amber,Axe Flier,14,11,1,7,8,7,3,9,3
+Amber,Griffin Knight,13,11,3,8,10,7,4,10,3
+Amber,Wyvern Knight,17,13,0,7,7,11,2,8,4
+Amber,Thief,14,11,0,9,9,10,2,10,3
+Jade,Sword Fighter,13,9,5,10,10,8,9,6,2
+Jade,Swordmaster,13,9,5,10,10,8,9,7,2
+Jade,Hero,14,10,5,9,9,8,8,7,2
+Jade,Lance Fighter,13,9,6,11,7,10,7,4,2
+Jade,Halberdier,13,10,6,11,8,11,7,5,2
+Jade,Royal Knight,12,9,8,10,9,9,10,6,2
+Jade,Axe Fighter,16,11,5,8,8,9,6,4,3
+Jade,Berserker,17,13,5,8,8,9,6,4,4
+Jade,Warrior,16,11,5,9,9,10,7,4,3
+Jade,Archer,13,10,5,12,8,9,6,5,2
+Jade,Sniper,14,10,5,13,8,10,6,6,2
+Jade,Bow Knight,13,9,5,11,10,8,9,7,2
+Jade,Sword Armor,15,10,5,9,6,14,6,4,3
+Jade,Lance Armor,15,10,5,9,6,14,6,4,3
+Jade,Axe Armor,15,10,5,9,6,14,6,4,3
+Jade,General,16,11,5,9,6,14,6,4,4
+Jade,Great Knight,15,10,5,10,6,13,8,5,3
+Jade,Sword Cavalier,13,9,5,9,8,10,8,6,2
+Jade,Lance Cavalier,13,9,5,9,8,10,8,6,2
+Jade,Axe Cavalier,13,9,5,9,8,10,8,6,2
+Jade,Paladin,14,10,5,9,9,11,9,6,2
+Jade,Wolf Knight,13,8,5,10,10,9,10,8,2
+Jade,Mage,11,7,10,8,6,8,11,5,2
+Jade,Sage,11,7,11,8,6,8,12,7,2
+Jade,Mage Knight,12,8,10,7,7,10,11,5,2
+Jade,Martial Monk,11,9,10,7,6,10,10,6,2
+Jade,Martial Master,12,9,9,7,6,11,11,6,2
+Jade,High Priest,11,7,10,7,7,8,12,10,2
+Jade,Sword Flier,12,9,6,9,8,8,8,6,2
+Jade,Lance Flier,12,9,6,9,8,8,8,6,2
+Jade,Axe Flier,12,9,6,9,8,8,8,6,2
+Jade,Griffin Knight,11,9,8,10,10,8,9,7,2
+Jade,Wyvern Knight,15,11,5,9,7,12,7,5,3
+Jade,Thief,12,9,5,11,9,11,7,7,2
+Ivy,Wing Tamer (Ivy),12,5,10,5,8,8,11,3,2
+Ivy,Lindwurm,12,5,11,6,8,9,12,3,2
+Ivy,Sword Fighter,13,7,6,8,12,6,10,5,2
+Ivy,Swordmaster,13,7,6,8,12,6,10,6,2
+Ivy,Hero,14,8,6,7,11,6,9,6,2
+Ivy,Lance Fighter,13,7,7,9,9,8,8,3,2
+Ivy,Halberdier,13,8,7,9,10,9,8,4,2
+Ivy,Royal Knight,12,7,9,8,11,7,11,5,2
+Ivy,Axe Fighter,16,9,6,6,10,7,7,3,3
+Ivy,Berserker,17,11,6,6,10,7,7,3,4
+Ivy,Warrior,16,9,6,7,11,8,8,3,3
+Ivy,Archer,13,8,6,10,10,7,7,4,2
+Ivy,Sniper,14,8,6,11,10,8,7,5,2
+Ivy,Bow Knight,13,7,6,9,12,6,10,6,2
+Ivy,Sword Armor,15,8,6,7,8,12,7,3,3
+Ivy,Lance Armor,15,8,6,7,8,12,7,3,3
+Ivy,Axe Armor,15,8,6,7,8,12,7,3,3
+Ivy,General,16,9,6,7,8,12,7,3,4
+Ivy,Great Knight,15,8,6,8,8,11,9,4,3
+Ivy,Sword Cavalier,13,7,6,7,10,8,9,5,2
+Ivy,Lance Cavalier,13,7,6,7,10,8,9,5,2
+Ivy,Axe Cavalier,13,7,6,7,10,8,9,5,2
+Ivy,Paladin,14,8,6,7,11,9,10,5,2
+Ivy,Wolf Knight,13,6,6,8,12,7,11,7,2
+Ivy,Mage,11,5,11,6,8,6,12,4,2
+Ivy,Sage,11,5,12,6,8,6,13,6,2
+Ivy,Mage Knight,12,6,11,5,9,8,12,4,2
+Ivy,Martial Monk,11,7,11,5,8,8,11,5,2
+Ivy,Martial Master,12,7,10,5,8,9,12,5,2
+Ivy,High Priest,11,5,11,5,9,6,13,9,2
+Ivy,Sword Flier,12,7,7,7,10,6,9,5,2
+Ivy,Lance Flier,12,7,7,7,10,6,9,5,2
+Ivy,Axe Flier,12,7,7,7,10,6,9,5,2
+Ivy,Griffin Knight,11,7,9,8,12,6,10,6,2
+Ivy,Wyvern Knight,15,9,6,7,9,10,8,4,3
+Ivy,Thief,12,7,6,9,11,9,8,6,2
+Kagetsu,Sword Fighter,14,8,3,13,14,8,8,10,2
+Kagetsu,Swordmaster,14,8,3,13,14,8,8,11,2
+Kagetsu,Hero,15,9,3,12,13,8,7,11,2
+Kagetsu,Lance Fighter,14,8,4,14,11,10,6,8,2
+Kagetsu,Halberdier,14,9,4,14,12,11,6,9,2
+Kagetsu,Royal Knight,13,8,6,13,13,9,9,10,2
+Kagetsu,Axe Fighter,17,10,3,11,12,9,5,8,3
+Kagetsu,Berserker,18,12,3,11,12,9,5,8,4
+Kagetsu,Warrior,17,10,3,12,13,10,6,8,3
+Kagetsu,Archer,14,9,3,15,12,9,5,9,2
+Kagetsu,Sniper,15,9,3,16,12,10,5,10,2
+Kagetsu,Bow Knight,14,8,3,14,14,8,8,11,2
+Kagetsu,Sword Armor,16,9,3,12,10,14,5,8,3
+Kagetsu,Lance Armor,16,9,3,12,10,14,5,8,3
+Kagetsu,Axe Armor,16,9,3,12,10,14,5,8,3
+Kagetsu,General,17,10,3,12,10,14,5,8,4
+Kagetsu,Great Knight,16,9,3,13,10,13,7,9,3
+Kagetsu,Sword Cavalier,14,8,3,12,12,10,7,10,2
+Kagetsu,Lance Cavalier,14,8,3,12,12,10,7,10,2
+Kagetsu,Axe Cavalier,14,8,3,12,12,10,7,10,2
+Kagetsu,Paladin,15,9,3,12,13,11,8,10,2
+Kagetsu,Wolf Knight,14,7,3,13,14,9,9,12,2
+Kagetsu,Mage,12,6,8,11,10,8,10,9,2
+Kagetsu,Sage,12,6,9,11,10,8,11,11,2
+Kagetsu,Mage Knight,13,7,8,10,11,10,10,9,2
+Kagetsu,Martial Monk,12,8,8,10,10,10,9,10,2
+Kagetsu,Martial Master,13,8,7,10,10,11,10,10,2
+Kagetsu,High Priest,12,6,8,10,11,8,11,14,2
+Kagetsu,Sword Flier,13,8,4,12,12,8,7,10,2
+Kagetsu,Lance Flier,13,8,4,12,12,8,7,10,2
+Kagetsu,Axe Flier,13,8,4,12,12,8,7,10,2
+Kagetsu,Griffin Knight,12,8,6,13,14,8,8,11,2
+Kagetsu,Wyvern Knight,16,10,3,12,11,12,6,9,3
+Kagetsu,Thief,13,8,3,14,13,11,6,11,2
+Zelkov,Sword Fighter,15,9,3,11,11,7,6,7,2
+Zelkov,Swordmaster,15,9,3,11,11,7,6,8,2
+Zelkov,Hero,16,10,3,10,10,7,5,8,2
+Zelkov,Lance Fighter,15,9,4,12,8,9,4,5,2
+Zelkov,Halberdier,15,10,4,12,9,10,4,6,2
+Zelkov,Royal Knight,14,9,6,11,10,8,7,7,2
+Zelkov,Axe Fighter,18,11,3,9,9,8,3,5,3
+Zelkov,Berserker,19,13,3,9,9,8,3,5,4
+Zelkov,Warrior,18,11,3,10,10,9,4,5,3
+Zelkov,Archer,15,10,3,13,9,8,3,6,2
+Zelkov,Sniper,16,10,3,14,9,9,3,7,2
+Zelkov,Bow Knight,15,9,3,12,11,7,6,8,2
+Zelkov,Sword Armor,17,10,3,10,7,13,3,5,3
+Zelkov,Lance Armor,17,10,3,10,7,13,3,5,3
+Zelkov,Axe Armor,17,10,3,10,7,13,3,5,3
+Zelkov,General,18,11,3,10,7,13,3,5,4
+Zelkov,Great Knight,17,10,3,11,7,12,5,6,3
+Zelkov,Sword Cavalier,15,9,3,10,9,9,5,7,2
+Zelkov,Lance Cavalier,15,9,3,10,9,9,5,7,2
+Zelkov,Axe Cavalier,15,9,3,10,9,9,5,7,2
+Zelkov,Paladin,16,10,3,10,10,10,6,7,2
+Zelkov,Wolf Knight,15,8,3,11,11,8,7,9,2
+Zelkov,Mage,13,7,8,9,7,7,8,6,2
+Zelkov,Sage,13,7,9,9,7,7,9,8,2
+Zelkov,Mage Knight,14,8,8,8,8,9,8,6,2
+Zelkov,Martial Monk,13,9,8,8,7,9,7,7,2
+Zelkov,Martial Master,14,9,7,8,7,10,8,7,2
+Zelkov,High Priest,13,7,8,8,8,7,9,11,2
+Zelkov,Sword Flier,14,9,4,10,9,7,5,7,2
+Zelkov,Lance Flier,14,9,4,10,9,7,5,7,2
+Zelkov,Axe Flier,14,9,4,10,9,7,5,7,2
+Zelkov,Griffin Knight,13,9,6,11,11,7,6,8,2
+Zelkov,Wyvern Knight,17,11,3,10,8,11,4,6,3
+Zelkov,Thief,14,9,3,12,10,10,4,8,2
+Fogado,Sentinel (Fogado),14,7,5,9,14,7,10,5,2
+Fogado,Cupido,14,7,6,10,15,7,11,5,2
+Fogado,Sword Fighter,14,8,5,9,15,6,10,7,2
+Fogado,Swordmaster,14,8,5,9,15,6,10,8,2
+Fogado,Hero,15,9,5,8,14,6,9,8,2
+Fogado,Lance Fighter,14,8,6,10,12,8,8,5,2
+Fogado,Halberdier,14,9,6,10,13,9,8,6,2
+Fogado,Royal Knight,13,8,8,9,14,7,11,7,2
+Fogado,Axe Fighter,17,10,5,7,13,7,7,5,3
+Fogado,Berserker,18,12,5,7,13,7,7,5,4
+Fogado,Warrior,17,10,5,8,14,8,8,5,3
+Fogado,Archer,14,9,5,11,13,7,7,6,2
+Fogado,Sniper,15,9,5,12,13,8,7,7,2
+Fogado,Bow Knight,14,8,5,10,15,6,10,8,2
+Fogado,Sword Armor,16,9,5,8,11,12,7,5,3
+Fogado,Lance Armor,16,9,5,8,11,12,7,5,3
+Fogado,Axe Armor,16,9,5,8,11,12,7,5,3
+Fogado,General,17,10,5,8,11,12,7,5,4
+Fogado,Great Knight,16,9,5,9,11,11,9,6,3
+Fogado,Sword Cavalier,14,8,5,8,13,8,9,7,2
+Fogado,Lance Cavalier,14,8,5,8,13,8,9,7,2
+Fogado,Axe Cavalier,14,8,5,8,13,8,9,7,2
+Fogado,Paladin,15,9,5,8,14,9,10,7,2
+Fogado,Wolf Knight,14,7,5,9,15,7,11,9,2
+Fogado,Mage,12,6,10,7,11,6,12,6,2
+Fogado,Sage,12,6,11,7,11,6,13,8,2
+Fogado,Mage Knight,13,7,10,6,12,8,12,6,2
+Fogado,Martial Monk,12,8,10,6,11,8,11,7,2
+Fogado,Martial Master,13,8,9,6,11,9,12,7,2
+Fogado,High Priest,12,6,10,6,12,6,13,11,2
+Fogado,Sword Flier,13,8,6,8,13,6,9,7,2
+Fogado,Lance Flier,13,8,6,8,13,6,9,7,2
+Fogado,Axe Flier,13,8,6,8,13,6,9,7,2
+Fogado,Griffin Knight,12,8,8,9,15,6,10,8,2
+Fogado,Wyvern Knight,16,10,5,8,12,10,8,6,3
+Fogado,Thief,13,8,5,10,14,9,8,8,2
+Pandreo,Sword Fighter,14,3,6,12,13,3,14,8,3
+Pandreo,Swordmaster,14,3,6,12,13,3,14,9,3
+Pandreo,Hero,15,4,6,11,12,3,13,9,3
+Pandreo,Lance Fighter,14,3,7,13,10,5,12,6,3
+Pandreo,Halberdier,14,4,7,13,11,6,12,7,3
+Pandreo,Royal Knight,13,3,9,12,12,4,15,8,3
+Pandreo,Axe Fighter,17,5,6,10,11,4,11,6,4
+Pandreo,Berserker,18,7,6,10,11,4,11,6,5
+Pandreo,Warrior,17,5,6,11,12,5,12,6,4
+Pandreo,Archer,14,4,6,14,11,4,11,7,3
+Pandreo,Sniper,15,4,6,15,11,5,11,8,3
+Pandreo,Bow Knight,14,3,6,13,13,3,14,9,3
+Pandreo,Sword Armor,16,4,6,11,9,9,11,6,4
+Pandreo,Lance Armor,16,4,6,11,9,9,11,6,4
+Pandreo,Axe Armor,16,4,6,11,9,9,11,6,4
+Pandreo,General,17,5,6,11,9,9,11,6,5
+Pandreo,Great Knight,16,4,6,12,9,8,13,7,4
+Pandreo,Sword Cavalier,14,3,6,11,11,5,13,8,3
+Pandreo,Lance Cavalier,14,3,6,11,11,5,13,8,3
+Pandreo,Axe Cavalier,14,3,6,11,11,5,13,8,3
+Pandreo,Paladin,15,4,6,11,12,6,14,8,3
+Pandreo,Wolf Knight,14,2,6,12,13,4,15,10,3
+Pandreo,Mage,12,1,11,10,9,3,16,7,3
+Pandreo,Sage,12,1,12,10,9,3,17,9,3
+Pandreo,Mage Knight,13,2,11,9,10,5,16,7,3
+Pandreo,Martial Monk,12,3,11,9,9,5,15,8,3
+Pandreo,Martial Master,13,3,10,9,9,6,16,8,3
+Pandreo,High Priest,12,1,11,9,10,3,17,12,3
+Pandreo,Sword Flier,13,3,7,11,11,3,13,8,3
+Pandreo,Lance Flier,13,3,7,11,11,3,13,8,3
+Pandreo,Axe Flier,13,3,7,11,11,3,13,8,3
+Pandreo,Griffin Knight,12,3,9,12,13,3,14,9,3
+Pandreo,Wyvern Knight,16,5,6,11,10,7,12,7,4
+Pandreo,Thief,13,3,6,13,12,6,12,9,3
+Bunet,Sword Fighter,15,8,2,11,11,9,8,10,2
+Bunet,Swordmaster,15,8,2,11,11,9,8,11,2
+Bunet,Hero,16,9,2,10,10,9,7,11,2
+Bunet,Lance Fighter,15,8,3,12,8,11,6,8,2
+Bunet,Halberdier,15,9,3,12,9,12,6,9,2
+Bunet,Royal Knight,14,8,5,11,10,10,9,10,2
+Bunet,Axe Fighter,18,10,2,9,9,10,5,8,3
+Bunet,Berserker,19,12,2,9,9,10,5,8,4
+Bunet,Warrior,18,10,2,10,10,11,6,8,3
+Bunet,Archer,15,9,2,13,9,10,5,9,2
+Bunet,Sniper,16,9,2,14,9,11,5,10,2
+Bunet,Bow Knight,15,8,2,12,11,9,8,11,2
+Bunet,Sword Armor,17,9,2,10,7,15,5,8,3
+Bunet,Lance Armor,17,9,2,10,7,15,5,8,3
+Bunet,Axe Armor,17,9,2,10,7,15,5,8,3
+Bunet,General,18,10,2,10,7,15,5,8,4
+Bunet,Great Knight,17,9,2,11,7,14,7,9,3
+Bunet,Sword Cavalier,15,8,2,10,9,11,7,10,2
+Bunet,Lance Cavalier,15,8,2,10,9,11,7,10,2
+Bunet,Axe Cavalier,15,8,2,10,9,11,7,10,2
+Bunet,Paladin,16,9,2,10,10,12,8,10,2
+Bunet,Wolf Knight,15,7,2,11,11,10,9,12,2
+Bunet,Mage,13,6,7,9,7,9,10,9,2
+Bunet,Sage,13,6,8,9,7,9,11,11,2
+Bunet,Mage Knight,14,7,7,8,8,11,10,9,2
+Bunet,Martial Monk,13,8,7,8,7,11,9,10,2
+Bunet,Martial Master,14,8,6,8,7,12,10,10,2
+Bunet,High Priest,13,6,7,8,8,9,11,14,2
+Bunet,Sword Flier,14,8,3,10,9,9,7,10,2
+Bunet,Lance Flier,14,8,3,10,9,9,7,10,2
+Bunet,Axe Flier,14,8,3,10,9,9,7,10,2
+Bunet,Griffin Knight,13,8,5,11,11,9,8,11,2
+Bunet,Wyvern Knight,17,10,2,10,8,13,6,9,3
+Bunet,Thief,14,8,2,12,10,12,6,11,2
+Timerra,Sentinel (Timerra),13,7,5,11,10,10,6,7,2
+Timerra,Picket,13,8,5,11,11,10,7,7,3
+Timerra,Sword Fighter,13,7,5,12,13,6,9,8,2
+Timerra,Swordmaster,13,7,5,12,13,6,9,9,2
+Timerra,Hero,14,8,5,11,12,6,8,9,2
+Timerra,Lance Fighter,13,7,6,13,10,8,7,6,2
+Timerra,Halberdier,13,8,6,13,11,9,7,7,2
+Timerra,Royal Knight,12,7,8,12,12,7,10,8,2
+Timerra,Axe Fighter,16,9,5,10,11,7,6,6,3
+Timerra,Berserker,17,11,5,10,11,7,6,6,4
+Timerra,Warrior,16,9,5,11,12,8,7,6,3
+Timerra,Archer,13,8,5,14,11,7,6,7,2
+Timerra,Sniper,14,8,5,15,11,8,6,8,2
+Timerra,Bow Knight,13,7,5,13,13,6,9,9,2
+Timerra,Sword Armor,15,8,5,11,9,12,6,6,3
+Timerra,Lance Armor,15,8,5,11,9,12,6,6,3
+Timerra,Axe Armor,15,8,5,11,9,12,6,6,3
+Timerra,General,16,9,5,11,9,12,6,6,4
+Timerra,Great Knight,15,8,5,12,9,11,8,7,3
+Timerra,Sword Cavalier,13,7,5,11,11,8,8,8,2
+Timerra,Lance Cavalier,13,7,5,11,11,8,8,8,2
+Timerra,Axe Cavalier,13,7,5,11,11,8,8,8,2
+Timerra,Paladin,14,8,5,11,12,9,9,8,2
+Timerra,Wolf Knight,13,6,5,12,13,7,10,10,2
+Timerra,Mage,11,5,10,10,9,6,11,7,2
+Timerra,Sage,11,5,11,10,9,6,12,9,2
+Timerra,Mage Knight,12,6,10,9,10,8,11,7,2
+Timerra,Martial Monk,11,7,10,9,9,8,10,8,2
+Timerra,Martial Master,12,7,9,9,9,9,11,8,2
+Timerra,High Priest,11,5,10,9,10,6,12,12,2
+Timerra,Sword Flier,12,7,6,11,11,6,8,8,2
+Timerra,Lance Flier,12,7,6,11,11,6,8,8,2
+Timerra,Axe Flier,12,7,6,11,11,6,8,8,2
+Timerra,Griffin Knight,11,7,8,12,13,6,9,9,2
+Timerra,Wyvern Knight,15,9,5,11,10,10,7,7,3
+Timerra,Thief,12,7,5,13,12,9,7,9,2
+Panette,Sword Fighter,17,11,2,11,9,6,6,6,3
+Panette,Swordmaster,17,11,2,11,9,6,6,7,3
+Panette,Hero,18,12,2,10,8,6,5,7,3
+Panette,Lance Fighter,17,11,3,12,6,8,4,4,3
+Panette,Halberdier,17,12,3,12,7,9,4,5,3
+Panette,Royal Knight,16,11,5,11,8,7,7,6,3
+Panette,Axe Fighter,20,13,2,9,7,7,3,4,4
+Panette,Berserker,21,15,2,9,7,7,3,4,5
+Panette,Warrior,20,13,2,10,8,8,4,4,4
+Panette,Archer,17,12,2,13,7,7,3,5,3
+Panette,Sniper,18,12,2,14,7,8,3,6,3
+Panette,Bow Knight,17,11,2,12,9,6,6,7,3
+Panette,Sword Armor,19,12,2,10,5,12,3,4,4
+Panette,Lance Armor,19,12,2,10,5,12,3,4,4
+Panette,Axe Armor,19,12,2,10,5,12,3,4,4
+Panette,General,20,13,2,10,5,12,3,4,5
+Panette,Great Knight,19,12,2,11,5,11,5,5,4
+Panette,Sword Cavalier,17,11,2,10,7,8,5,6,3
+Panette,Lance Cavalier,17,11,2,10,7,8,5,6,3
+Panette,Axe Cavalier,17,11,2,10,7,8,5,6,3
+Panette,Paladin,18,12,2,10,8,9,6,6,3
+Panette,Wolf Knight,17,10,2,11,9,7,7,8,3
+Panette,Mage,15,9,7,9,5,6,8,5,3
+Panette,Sage,15,9,8,9,5,6,9,7,3
+Panette,Mage Knight,16,10,7,8,6,8,8,5,3
+Panette,Martial Monk,15,11,7,8,5,8,7,6,3
+Panette,Martial Master,16,11,6,8,5,9,8,6,3
+Panette,High Priest,15,9,7,8,6,6,9,10,3
+Panette,Sword Flier,16,11,3,10,7,6,5,6,3
+Panette,Lance Flier,16,11,3,10,7,6,5,6,3
+Panette,Axe Flier,16,11,3,10,7,6,5,6,3
+Panette,Griffin Knight,15,11,5,11,9,6,6,7,3
+Panette,Wyvern Knight,19,13,2,10,6,10,4,5,4
+Panette,Thief,16,11,2,12,8,9,4,7,3
+Merrin,Sword Fighter,13,7,5,11,14,6,9,7,2
+Merrin,Swordmaster,13,7,5,11,14,6,9,8,2
+Merrin,Hero,14,8,5,10,13,6,8,8,2
+Merrin,Lance Fighter,13,7,6,12,11,8,7,5,2
+Merrin,Halberdier,13,8,6,12,12,9,7,6,2
+Merrin,Royal Knight,12,7,8,11,13,7,10,7,2
+Merrin,Axe Fighter,16,9,5,9,12,7,6,5,3
+Merrin,Berserker,17,11,5,9,12,7,6,5,4
+Merrin,Warrior,16,9,5,10,13,8,7,5,3
+Merrin,Archer,13,8,5,13,12,7,6,6,2
+Merrin,Sniper,14,8,5,14,12,8,6,7,2
+Merrin,Bow Knight,13,7,5,12,14,6,9,8,2
+Merrin,Sword Armor,15,8,5,10,10,12,6,5,3
+Merrin,Lance Armor,15,8,5,10,10,12,6,5,3
+Merrin,Axe Armor,15,8,5,10,10,12,6,5,3
+Merrin,General,16,9,5,10,10,12,6,5,4
+Merrin,Great Knight,15,8,5,11,10,11,8,6,3
+Merrin,Sword Cavalier,13,7,5,10,12,8,8,7,2
+Merrin,Lance Cavalier,13,7,5,10,12,8,8,7,2
+Merrin,Axe Cavalier,13,7,5,10,12,8,8,7,2
+Merrin,Paladin,14,8,5,10,13,9,9,7,2
+Merrin,Wolf Knight,13,6,5,11,14,7,10,9,2
+Merrin,Mage,11,5,10,9,10,6,11,6,2
+Merrin,Sage,11,5,11,9,10,6,12,8,2
+Merrin,Mage Knight,12,6,10,8,11,8,11,6,2
+Merrin,Martial Monk,11,7,10,8,10,8,10,7,2
+Merrin,Martial Master,12,7,9,8,10,9,11,7,2
+Merrin,High Priest,11,5,10,8,11,6,12,11,2
+Merrin,Sword Flier,12,7,6,10,12,6,8,7,2
+Merrin,Lance Flier,12,7,6,10,12,6,8,7,2
+Merrin,Axe Flier,12,7,6,10,12,6,8,7,2
+Merrin,Griffin Knight,11,7,8,11,14,6,9,8,2
+Merrin,Wyvern Knight,15,9,5,10,11,10,7,6,3
+Merrin,Thief,12,7,5,12,13,9,7,8,2
+Hortensia,Wing Tamer (Hortensia),8,4,7,9,12,5,16,12,0
+Hortensia,Sleipnir Rider,8,4,8,10,13,5,17,13,0
+Hortensia,Sword Fighter,10,6,4,10,14,5,14,12,0
+Hortensia,Swordmaster,10,6,4,10,14,5,14,13,0
+Hortensia,Hero,11,7,4,9,13,5,13,13,0
+Hortensia,Lance Fighter,10,6,5,11,11,7,12,10,0
+Hortensia,Halberdier,10,7,5,11,12,8,12,11,0
+Hortensia,Royal Knight,9,6,7,10,13,6,15,12,0
+Hortensia,Axe Fighter,13,8,4,8,12,6,11,10,1
+Hortensia,Berserker,14,10,4,8,12,6,11,10,2
+Hortensia,Warrior,13,8,4,9,13,7,12,10,1
+Hortensia,Archer,10,7,4,12,12,6,11,11,0
+Hortensia,Sniper,11,7,4,13,12,7,11,12,0
+Hortensia,Bow Knight,10,6,4,11,14,5,14,13,0
+Hortensia,Sword Armor,12,7,4,9,10,11,11,10,1
+Hortensia,Lance Armor,12,7,4,9,10,11,11,10,1
+Hortensia,Axe Armor,12,7,4,9,10,11,11,10,1
+Hortensia,General,13,8,4,9,10,11,11,10,2
+Hortensia,Great Knight,12,7,4,10,10,10,13,11,1
+Hortensia,Sword Cavalier,10,6,4,9,12,7,13,12,0
+Hortensia,Lance Cavalier,10,6,4,9,12,7,13,12,0
+Hortensia,Axe Cavalier,10,6,4,9,12,7,13,12,0
+Hortensia,Paladin,11,7,4,9,13,8,14,12,0
+Hortensia,Wolf Knight,10,5,4,10,14,6,15,14,0
+Hortensia,Mage,8,4,9,8,10,5,16,11,0
+Hortensia,Sage,8,4,10,8,10,5,17,13,0
+Hortensia,Mage Knight,9,5,9,7,11,7,16,11,0
+Hortensia,Martial Monk,8,6,9,7,10,7,15,12,0
+Hortensia,Martial Master,9,6,8,7,10,8,16,12,0
+Hortensia,High Priest,8,4,9,7,11,5,17,16,0
+Hortensia,Sword Flier,9,6,5,9,12,5,13,12,0
+Hortensia,Lance Flier,9,6,5,9,12,5,13,12,0
+Hortensia,Axe Flier,9,6,5,9,12,5,13,12,0
+Hortensia,Griffin Knight,8,6,7,10,14,5,14,13,0
+Hortensia,Wyvern Knight,12,8,4,9,11,9,12,11,1
+Hortensia,Thief,9,6,4,11,13,8,12,13,0
+Seadall,Sword Fighter,13,7,3,8,14,5,8,9,2
+Seadall,Swordmaster,13,7,3,8,14,5,8,10,2
+Seadall,Hero,14,8,3,7,13,5,7,10,2
+Seadall,Lance Fighter,13,7,4,9,11,7,6,7,2
+Seadall,Halberdier,13,8,4,9,12,8,6,8,2
+Seadall,Royal Knight,12,7,6,8,13,6,9,9,2
+Seadall,Axe Fighter,16,9,3,6,12,6,5,7,3
+Seadall,Berserker,17,11,3,6,12,6,5,7,4
+Seadall,Warrior,16,9,3,7,13,7,6,7,3
+Seadall,Archer,13,8,3,10,12,6,5,8,2
+Seadall,Sniper,14,8,3,11,12,7,5,9,2
+Seadall,Bow Knight,13,7,3,9,14,5,8,10,2
+Seadall,Sword Armor,15,8,3,7,10,11,5,7,3
+Seadall,Lance Armor,15,8,3,7,10,11,5,7,3
+Seadall,Axe Armor,15,8,3,7,10,11,5,7,3
+Seadall,General,16,9,3,7,10,11,5,7,4
+Seadall,Great Knight,15,8,3,8,10,10,7,8,3
+Seadall,Sword Cavalier,13,7,3,7,12,7,7,9,2
+Seadall,Lance Cavalier,13,7,3,7,12,7,7,9,2
+Seadall,Axe Cavalier,13,7,3,7,12,7,7,9,2
+Seadall,Paladin,14,8,3,7,13,8,8,9,2
+Seadall,Wolf Knight,13,6,3,8,14,6,9,11,2
+Seadall,Mage,11,5,8,6,10,5,10,8,2
+Seadall,Sage,11,5,9,6,10,5,11,10,2
+Seadall,Mage Knight,12,6,8,5,11,7,10,8,2
+Seadall,Martial Monk,11,7,8,5,10,7,9,9,2
+Seadall,Martial Master,12,7,7,5,10,8,10,9,2
+Seadall,High Priest,11,5,8,5,11,5,11,13,2
+Seadall,Sword Flier,12,7,4,7,12,5,7,9,2
+Seadall,Lance Flier,12,7,4,7,12,5,7,9,2
+Seadall,Axe Flier,12,7,4,7,12,5,7,9,2
+Seadall,Griffin Knight,11,7,6,8,14,5,8,10,2
+Seadall,Wyvern Knight,15,9,3,7,11,9,6,8,3
+Seadall,Thief,12,7,3,9,13,8,6,10,2
+Seadall,Dancer,12,7,3,6,13,7,9,11,2
+Rosado,Sword Fighter,17,11,5,11,13,6,9,6,1
+Rosado,Swordmaster,17,11,5,11,13,6,9,7,1
+Rosado,Hero,18,12,5,10,12,6,8,7,1
+Rosado,Lance Fighter,17,11,6,12,10,8,7,4,1
+Rosado,Halberdier,17,12,6,12,11,9,7,5,1
+Rosado,Royal Knight,16,11,8,11,12,7,10,6,1
+Rosado,Axe Fighter,20,13,5,9,11,7,6,4,2
+Rosado,Berserker,21,15,5,9,11,7,6,4,3
+Rosado,Warrior,20,13,5,10,12,8,7,4,2
+Rosado,Archer,17,12,5,13,11,7,6,5,1
+Rosado,Sniper,18,12,5,14,11,8,6,6,1
+Rosado,Bow Knight,17,11,5,12,13,6,9,7,1
+Rosado,Sword Armor,19,12,5,10,9,12,6,4,2
+Rosado,Lance Armor,19,12,5,10,9,12,6,4,2
+Rosado,Axe Armor,19,12,5,10,9,12,6,4,2
+Rosado,General,20,13,5,10,9,12,6,4,3
+Rosado,Great Knight,19,12,5,11,9,11,8,5,2
+Rosado,Sword Cavalier,17,11,5,10,11,8,8,6,1
+Rosado,Lance Cavalier,17,11,5,10,11,8,8,6,1
+Rosado,Axe Cavalier,17,11,5,10,11,8,8,6,1
+Rosado,Paladin,18,12,5,10,12,9,9,6,1
+Rosado,Wolf Knight,17,10,5,11,13,7,10,8,1
+Rosado,Mage,15,9,10,9,9,6,11,5,1
+Rosado,Sage,15,9,11,9,9,6,12,7,1
+Rosado,Mage Knight,16,10,10,8,10,8,11,5,1
+Rosado,Martial Monk,15,11,10,8,9,8,10,6,1
+Rosado,Martial Master,16,11,9,8,9,9,11,6,1
+Rosado,High Priest,15,9,10,8,10,6,12,10,1
+Rosado,Sword Flier,16,11,6,10,11,6,8,6,1
+Rosado,Lance Flier,16,11,6,10,11,6,8,6,1
+Rosado,Axe Flier,16,11,6,10,11,6,8,6,1
+Rosado,Griffin Knight,15,11,8,11,13,6,9,7,1
+Rosado,Wyvern Knight,19,13,5,10,10,10,7,5,2
+Rosado,Thief,16,11,5,12,12,9,7,7,1
+Goldmary,Sword Fighter,15,8,1,8,9,11,8,7,1
+Goldmary,Swordmaster,15,8,1,8,9,11,8,8,1
+Goldmary,Hero,16,9,1,7,8,11,7,8,1
+Goldmary,Lance Fighter,15,8,2,9,6,13,6,5,1
+Goldmary,Halberdier,15,9,2,9,7,14,6,6,1
+Goldmary,Royal Knight,14,8,4,8,8,12,9,7,1
+Goldmary,Axe Fighter,18,10,1,6,7,12,5,5,2
+Goldmary,Berserker,19,12,1,6,7,12,5,5,3
+Goldmary,Warrior,18,10,1,7,8,13,6,5,2
+Goldmary,Archer,15,9,1,10,7,12,5,6,1
+Goldmary,Sniper,16,9,1,11,7,13,5,7,1
+Goldmary,Bow Knight,15,8,1,9,9,11,8,8,1
+Goldmary,Sword Armor,17,9,1,7,5,17,5,5,2
+Goldmary,Lance Armor,17,9,1,7,5,17,5,5,2
+Goldmary,Axe Armor,17,9,1,7,5,17,5,5,2
+Goldmary,General,18,10,1,7,5,17,5,5,3
+Goldmary,Great Knight,17,9,1,8,5,16,7,6,2
+Goldmary,Sword Cavalier,15,8,1,7,7,13,7,7,1
+Goldmary,Lance Cavalier,15,8,1,7,7,13,7,7,1
+Goldmary,Axe Cavalier,15,8,1,7,7,13,7,7,1
+Goldmary,Paladin,16,9,1,7,8,14,8,7,1
+Goldmary,Wolf Knight,15,7,1,8,9,12,9,9,1
+Goldmary,Mage,13,6,6,6,5,11,10,6,1
+Goldmary,Sage,13,6,7,6,5,11,11,8,1
+Goldmary,Mage Knight,14,7,6,5,6,13,10,6,1
+Goldmary,Martial Monk,13,8,6,5,5,13,9,7,1
+Goldmary,Martial Master,14,8,5,5,5,14,10,7,1
+Goldmary,High Priest,13,6,6,5,6,11,11,11,1
+Goldmary,Sword Flier,14,8,2,7,7,11,7,7,1
+Goldmary,Lance Flier,14,8,2,7,7,11,7,7,1
+Goldmary,Axe Flier,14,8,2,7,7,11,7,7,1
+Goldmary,Griffin Knight,13,8,4,8,9,11,8,8,1
+Goldmary,Wyvern Knight,17,10,1,7,6,15,6,6,2
+Goldmary,Thief,14,8,1,9,8,14,6,8,1
+Lindon,Sword Fighter,15,7,5,8,12,5,11,5,2
+Lindon,Swordmaster,15,7,5,8,12,5,11,6,2
+Lindon,Hero,16,8,5,7,11,5,10,6,2
+Lindon,Lance Fighter,15,7,6,9,9,7,9,3,2
+Lindon,Halberdier,15,8,6,9,10,8,9,4,2
+Lindon,Royal Knight,14,7,8,8,11,6,12,5,2
+Lindon,Axe Fighter,18,9,5,6,10,6,8,3,3
+Lindon,Berserker,19,11,5,6,10,6,8,3,4
+Lindon,Warrior,18,9,5,7,11,7,9,3,3
+Lindon,Archer,15,8,5,10,10,6,8,4,2
+Lindon,Sniper,16,8,5,11,10,7,8,5,2
+Lindon,Bow Knight,15,7,5,9,12,5,11,6,2
+Lindon,Sword Armor,17,8,5,7,8,11,8,3,3
+Lindon,Lance Armor,17,8,5,7,8,11,8,3,3
+Lindon,Axe Armor,17,8,5,7,8,11,8,3,3
+Lindon,General,18,9,5,7,8,11,8,3,4
+Lindon,Great Knight,17,8,5,8,8,10,10,4,3
+Lindon,Sword Cavalier,15,7,5,7,10,7,10,5,2
+Lindon,Lance Cavalier,15,7,5,7,10,7,10,5,2
+Lindon,Axe Cavalier,15,7,5,7,10,7,10,5,2
+Lindon,Paladin,16,8,5,7,11,8,11,5,2
+Lindon,Wolf Knight,15,6,5,8,12,6,12,7,2
+Lindon,Mage,13,5,10,6,8,5,13,4,2
+Lindon,Sage,13,5,11,6,8,5,14,6,2
+Lindon,Mage Knight,14,6,10,5,9,7,13,4,2
+Lindon,Martial Monk,13,7,10,5,8,7,12,5,2
+Lindon,Martial Master,14,7,9,5,8,8,13,5,2
+Lindon,High Priest,13,5,10,5,9,5,14,9,2
+Lindon,Sword Flier,14,7,6,7,10,5,10,5,2
+Lindon,Lance Flier,14,7,6,7,10,5,10,5,2
+Lindon,Axe Flier,14,7,6,7,10,5,10,5,2
+Lindon,Griffin Knight,13,7,8,8,12,5,11,6,2
+Lindon,Wyvern Knight,17,9,5,7,9,9,9,4,3
+Lindon,Thief,14,7,5,9,11,8,9,6,2
+Saphir,Sword Fighter,18,9,0,8,10,6,4,6,2
+Saphir,Swordmaster,18,9,0,8,10,6,4,7,2
+Saphir,Hero,19,10,0,7,9,6,3,7,2
+Saphir,Lance Fighter,18,9,1,9,7,8,2,4,2
+Saphir,Halberdier,18,10,1,9,8,9,2,5,2
+Saphir,Royal Knight,17,9,3,8,9,7,5,6,2
+Saphir,Axe Fighter,21,11,0,6,8,7,1,4,3
+Saphir,Berserker,22,13,0,6,8,7,1,4,4
+Saphir,Warrior,21,11,0,7,9,8,2,4,3
+Saphir,Archer,18,10,0,10,8,7,1,5,2
+Saphir,Sniper,19,10,0,11,8,8,1,6,2
+Saphir,Bow Knight,18,9,0,9,10,6,4,7,2
+Saphir,Sword Armor,20,10,0,7,6,12,1,4,3
+Saphir,Lance Armor,20,10,0,7,6,12,1,4,3
+Saphir,Axe Armor,20,10,0,7,6,12,1,4,3
+Saphir,General,21,11,0,7,6,12,1,4,4
+Saphir,Great Knight,20,10,0,8,6,11,3,5,3
+Saphir,Sword Cavalier,18,9,0,7,8,8,3,6,2
+Saphir,Lance Cavalier,18,9,0,7,8,8,3,6,2
+Saphir,Axe Cavalier,18,9,0,7,8,8,3,6,2
+Saphir,Paladin,19,10,0,7,9,9,4,6,2
+Saphir,Wolf Knight,18,8,0,8,10,7,5,8,2
+Saphir,Mage,16,7,5,6,6,6,6,5,2
+Saphir,Sage,16,7,6,6,6,6,7,7,2
+Saphir,Mage Knight,17,8,5,5,7,8,6,5,2
+Saphir,Martial Monk,16,9,5,5,6,8,5,6,2
+Saphir,Martial Master,17,9,4,5,6,9,6,6,2
+Saphir,High Priest,16,7,5,5,7,6,7,10,2
+Saphir,Sword Flier,17,9,1,7,8,6,3,6,2
+Saphir,Lance Flier,17,9,1,7,8,6,3,6,2
+Saphir,Axe Flier,17,9,1,7,8,6,3,6,2
+Saphir,Griffin Knight,16,9,3,8,10,6,4,7,2
+Saphir,Wyvern Knight,20,11,0,7,7,10,2,5,3
+Saphir,Thief,17,9,0,9,9,9,2,7,2
+Veyle,Sword Fighter,10,7,9,10,10,5,10,6,0
+Veyle,Swordmaster,10,7,9,10,10,5,10,7,0
+Veyle,Hero,11,8,9,9,9,5,9,7,0
+Veyle,Lance Fighter,10,7,10,11,7,7,8,4,0
+Veyle,Halberdier,10,8,10,11,8,8,8,5,0
+Veyle,Royal Knight,9,7,12,10,9,6,11,6,0
+Veyle,Axe Fighter,13,9,9,8,8,6,7,4,1
+Veyle,Berserker,14,11,9,8,8,6,7,4,2
+Veyle,Warrior,13,9,9,9,9,7,8,4,1
+Veyle,Archer,10,8,9,12,8,6,7,5,0
+Veyle,Sniper,11,8,9,13,8,7,7,6,0
+Veyle,Bow Knight,10,7,9,11,10,5,10,7,0
+Veyle,Sword Armor,12,8,9,9,6,11,7,4,1
+Veyle,Lance Armor,12,8,9,9,6,11,7,4,1
+Veyle,Axe Armor,12,8,9,9,6,11,7,4,1
+Veyle,General,13,9,9,9,6,11,7,4,2
+Veyle,Great Knight,12,8,9,10,6,10,9,5,1
+Veyle,Sword Cavalier,10,7,9,9,8,7,9,6,0
+Veyle,Lance Cavalier,10,7,9,9,8,7,9,6,0
+Veyle,Axe Cavalier,10,7,9,9,8,7,9,6,0
+Veyle,Paladin,11,8,9,9,9,8,10,6,0
+Veyle,Wolf Knight,10,6,9,10,10,6,11,8,0
+Veyle,Mage,8,5,14,8,6,5,12,5,0
+Veyle,Sage,8,5,15,8,6,5,13,7,0
+Veyle,Mage Knight,9,6,14,7,7,7,12,5,0
+Veyle,Martial Monk,8,7,14,7,6,7,11,6,0
+Veyle,Martial Master,9,7,13,7,6,8,12,6,0
+Veyle,High Priest,8,5,14,7,7,5,13,10,0
+Veyle,Sword Flier,9,7,10,9,8,5,9,6,0
+Veyle,Lance Flier,9,7,10,9,8,5,9,6,0
+Veyle,Axe Flier,9,7,10,9,8,5,9,6,0
+Veyle,Griffin Knight,8,7,12,10,10,5,10,7,0
+Veyle,Wyvern Knight,12,9,9,9,7,9,8,5,1
+Veyle,Thief,9,7,9,11,9,8,8,7,0
+Mauvier,Sword Fighter,16,9,8,11,11,10,12,5,3
+Mauvier,Swordmaster,16,9,8,11,11,10,12,6,3
+Mauvier,Hero,17,10,8,10,10,10,11,6,3
+Mauvier,Lance Fighter,16,9,9,12,8,12,10,3,3
+Mauvier,Halberdier,16,10,9,12,9,13,10,4,3
+Mauvier,Royal Knight,15,9,11,11,10,11,13,5,3
+Mauvier,Axe Fighter,19,11,8,9,9,11,9,3,4
+Mauvier,Berserker,20,13,8,9,9,11,9,3,5
+Mauvier,Warrior,19,11,8,10,10,12,10,3,4
+Mauvier,Archer,16,10,8,13,9,11,9,4,3
+Mauvier,Sniper,17,10,8,14,9,12,9,5,3
+Mauvier,Bow Knight,16,9,8,12,11,10,12,6,3
+Mauvier,Sword Armor,18,10,8,10,7,16,9,3,4
+Mauvier,Lance Armor,18,10,8,10,7,16,9,3,4
+Mauvier,Axe Armor,18,10,8,10,7,16,9,3,4
+Mauvier,General,19,11,8,10,7,16,9,3,5
+Mauvier,Great Knight,18,10,8,11,7,15,11,4,4
+Mauvier,Sword Cavalier,16,9,8,10,9,12,11,5,3
+Mauvier,Lance Cavalier,16,9,8,10,9,12,11,5,3
+Mauvier,Axe Cavalier,16,9,8,10,9,12,11,5,3
+Mauvier,Paladin,17,10,8,10,10,13,12,5,3
+Mauvier,Wolf Knight,16,8,8,11,11,11,13,7,3
+Mauvier,Mage,14,7,13,9,7,10,14,4,3
+Mauvier,Sage,14,7,14,9,7,10,15,6,3
+Mauvier,Mage Knight,15,8,13,8,8,12,14,4,3
+Mauvier,Martial Monk,14,9,13,8,7,12,13,5,3
+Mauvier,Martial Master,15,9,12,8,7,13,14,5,3
+Mauvier,High Priest,14,7,13,8,8,10,15,9,3
+Mauvier,Sword Flier,15,9,9,10,9,10,11,5,3
+Mauvier,Lance Flier,15,9,9,10,9,10,11,5,3
+Mauvier,Axe Flier,15,9,9,10,9,10,11,5,3
+Mauvier,Griffin Knight,14,9,11,11,11,10,12,6,3
+Mauvier,Wyvern Knight,18,11,8,10,8,14,10,4,4
+Mauvier,Thief,15,9,8,12,10,13,10,6,3
+Anna,Sword Fighter,13,5,10,13,14,4,10,11,1
+Anna,Swordmaster,13,5,10,13,14,4,10,12,1
+Anna,Hero,14,6,10,12,13,4,9,12,1
+Anna,Lance Fighter,13,5,11,14,11,6,8,9,1
+Anna,Halberdier,13,6,11,14,12,7,8,10,1
+Anna,Royal Knight,12,5,13,13,13,5,11,11,1
+Anna,Axe Fighter,16,7,10,11,12,5,7,9,2
+Anna,Berserker,17,9,10,11,12,5,7,9,3
+Anna,Warrior,16,7,10,12,13,6,8,9,2
+Anna,Archer,13,6,10,15,12,5,7,10,1
+Anna,Sniper,14,6,10,16,12,6,7,11,1
+Anna,Bow Knight,13,5,10,14,14,4,10,12,1
+Anna,Sword Armor,15,6,10,12,10,10,7,9,2
+Anna,Lance Armor,15,6,10,12,10,10,7,9,2
+Anna,Axe Armor,15,6,10,12,10,10,7,9,2
+Anna,General,16,7,10,12,10,10,7,9,3
+Anna,Great Knight,15,6,10,13,10,9,9,10,2
+Anna,Sword Cavalier,13,5,10,12,12,6,9,11,1
+Anna,Lance Cavalier,13,5,10,12,12,6,9,11,1
+Anna,Axe Cavalier,13,5,10,12,12,6,9,11,1
+Anna,Paladin,14,6,10,12,13,7,10,11,1
+Anna,Wolf Knight,13,4,10,13,14,5,11,13,1
+Anna,Mage,11,3,15,11,10,4,12,10,1
+Anna,Sage,11,3,16,11,10,4,13,12,1
+Anna,Mage Knight,12,4,15,10,11,6,12,10,1
+Anna,Martial Monk,11,5,15,10,10,6,11,11,1
+Anna,Martial Master,12,5,14,10,10,7,12,11,1
+Anna,High Priest,11,3,15,10,11,4,13,15,1
+Anna,Sword Flier,12,5,11,12,12,4,9,11,1
+Anna,Lance Flier,12,5,11,12,12,4,9,11,1
+Anna,Axe Flier,12,5,11,12,12,4,9,11,1
+Anna,Griffin Knight,11,5,13,13,14,4,10,12,1
+Anna,Wyvern Knight,15,7,10,12,11,8,8,10,2
+Anna,Thief,12,5,10,14,13,7,8,12,1
+Jean,Sword Fighter,14,8,4,13,16,5,10,9,1
+Jean,Swordmaster,14,8,4,13,16,5,10,11,1
+Jean,Hero,16,10,4,11,14,5,8,11,1
+Jean,Lance Fighter,14,8,6,15,10,9,6,5,1
+Jean,Halberdier,14,10,6,15,12,11,6,7,1
+Jean,Royal Knight,12,8,10,13,14,7,12,9,1
+Jean,Axe Fighter,20,12,4,9,12,7,4,5,3
+Jean,Berserker,22,16,4,9,12,7,4,5,5
+Jean,Warrior,20,12,4,11,14,9,6,5,3
+Jean,Archer,14,10,4,17,12,7,4,7,1
+Jean,Sniper,16,10,4,19,12,9,4,9,1
+Jean,Bow Knight,14,8,4,15,16,5,10,11,1
+Jean,Sword Armor,18,10,4,11,8,17,4,5,3
+Jean,Lance Armor,18,10,4,11,8,17,4,5,3
+Jean,Axe Armor,18,10,4,11,8,17,4,5,3
+Jean,General,20,12,4,11,8,17,4,5,5
+Jean,Great Knight,18,10,4,13,8,15,8,7,3
+Jean,Sword Cavalier,14,8,4,11,12,9,8,9,1
+Jean,Lance Cavalier,14,8,4,11,12,9,8,9,1
+Jean,Axe Cavalier,14,8,4,11,12,9,8,9,1
+Jean,Paladin,16,10,4,11,14,11,10,9,1
+Jean,Wolf Knight,14,6,4,13,16,7,12,13,1
+Jean,Mage,10,4,14,9,8,5,14,7,1
+Jean,Sage,10,4,16,9,8,5,16,11,1
+Jean,Mage Knight,12,6,14,7,10,9,14,7,1
+Jean,Martial Monk,10,8,14,7,8,9,12,9,1
+Jean,Martial Master,12,8,12,7,8,11,14,9,1
+Jean,High Priest,10,4,14,7,10,5,16,17,1
+Jean,Sword Flier,12,8,6,11,12,5,8,9,1
+Jean,Lance Flier,12,8,6,11,12,5,8,9,1
+Jean,Axe Flier,12,8,6,11,12,5,8,9,1
+Jean,Griffin Knight,10,8,10,13,16,5,10,11,1
+Jean,Wyvern Knight,18,12,4,11,10,13,6,7,3
+Jean,Thief,12,8,4,15,14,11,6,11,1

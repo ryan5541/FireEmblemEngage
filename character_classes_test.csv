@@ -1,0 +1,1244 @@
+Name,Class,HP,Str,Mag,Dex,Spd,Def,Res,Lck,Bld
+Alear,Dragon Child,70,45,20,55,65,50,35,30,10
+Alear,Divine Dragon,70,45,20,55,65,55,40,35,10
+Alear,Sword Fighter,70,45,20,60,70,40,40,35,5
+Alear,Swordmaster,70,45,20,60,70,40,40,40,5
+Alear,Hero,75,50,20,55,65,40,35,40,5
+Alear,Lance Fighter,70,45,25,65,55,50,30,25,5
+Alear,Halberdier,70,50,25,65,60,55,30,30,5
+Alear,Royal Knight,65,45,35,60,65,45,45,35,5
+Alear,Axe Fighter,85,55,20,50,60,45,25,25,10
+Alear,Berserker,90,65,20,50,60,45,25,25,15
+Alear,Warrior,85,55,20,55,65,50,30,25,10
+Alear,Archer,70,50,20,70,60,45,25,30,5
+Alear,Sniper,75,50,20,75,60,50,25,35,5
+Alear,Bow Knight,70,45,20,65,70,40,40,40,5
+Alear,Sword Armor,80,50,20,55,50,70,25,25,10
+Alear,Lance Armor,80,50,20,55,50,70,25,25,10
+Alear,Axe Armor,80,50,20,55,50,70,25,25,10
+Alear,General,85,55,20,55,50,70,25,25,15
+Alear,Great Knight,80,50,20,60,50,65,35,30,10
+Alear,Sword Cavalier,70,45,20,55,60,50,35,35,5
+Alear,Lance Cavalier,70,45,20,55,60,50,35,35,5
+Alear,Axe Cavalier,70,45,20,55,60,50,35,35,5
+Alear,Paladin,75,50,20,55,65,55,40,35,5
+Alear,Wolf Knight,70,40,20,60,70,45,45,45,5
+Alear,Mage,60,35,45,50,50,40,50,30,5
+Alear,Sage,60,35,50,50,50,40,55,40,5
+Alear,Mage Knight,65,40,45,45,55,50,50,30,5
+Alear,Martial Monk,60,45,45,45,50,50,45,35,5
+Alear,Martial Master,65,45,40,45,50,55,50,35,5
+Alear,High Priest,60,35,45,45,55,40,55,55,5
+Alear,Sword Flier,65,45,25,55,60,40,35,35,5
+Alear,Lance Flier,65,45,25,55,60,40,35,35,5
+Alear,Axe Flier,65,45,25,55,60,40,35,35,5
+Alear,Griffin Knight,60,45,35,60,70,40,40,40,5
+Alear,Wyvern Knight,80,55,20,55,55,60,30,30,10
+Alear,Thief,65,45,20,65,65,55,30,40,5
+Vander,Sword Fighter,70,35,10,40,55,35,35,20,5
+Vander,Swordmaster,70,35,10,40,55,35,35,25,5
+Vander,Hero,75,40,10,35,50,35,30,25,5
+Vander,Lance Fighter,70,35,15,45,40,45,25,10,5
+Vander,Halberdier,70,40,15,45,45,50,25,15,5
+Vander,Royal Knight,65,35,25,40,50,40,40,20,5
+Vander,Axe Fighter,85,45,10,30,45,40,20,10,10
+Vander,Berserker,90,55,10,30,45,40,20,10,15
+Vander,Warrior,85,45,10,35,50,45,25,10,10
+Vander,Archer,70,40,10,50,45,40,20,15,5
+Vander,Sniper,75,40,10,55,45,45,20,20,5
+Vander,Bow Knight,70,35,10,45,55,35,35,25,5
+Vander,Sword Armor,80,40,10,35,35,65,20,10,10
+Vander,Lance Armor,80,40,10,35,35,65,20,10,10
+Vander,Axe Armor,80,40,10,35,35,65,20,10,10
+Vander,General,85,45,10,35,35,65,20,10,15
+Vander,Great Knight,80,40,10,40,35,60,30,15,10
+Vander,Sword Cavalier,70,35,10,35,45,45,30,20,5
+Vander,Lance Cavalier,70,35,10,35,45,45,30,20,5
+Vander,Axe Cavalier,70,35,10,35,45,45,30,20,5
+Vander,Paladin,75,40,10,35,50,50,35,20,5
+Vander,Wolf Knight,70,30,10,40,55,40,40,30,5
+Vander,Mage,60,25,35,30,35,35,45,15,5
+Vander,Sage,60,25,40,30,35,35,50,25,5
+Vander,Mage Knight,65,30,35,25,40,45,45,15,5
+Vander,Martial Monk,60,35,35,25,35,45,40,20,5
+Vander,Martial Master,65,35,30,25,35,50,45,20,5
+Vander,High Priest,60,25,35,25,40,35,50,40,5
+Vander,Sword Flier,65,35,15,35,45,35,30,20,5
+Vander,Lance Flier,65,35,15,35,45,35,30,20,5
+Vander,Axe Flier,65,35,15,35,45,35,30,20,5
+Vander,Griffin Knight,60,35,25,40,55,35,35,25,5
+Vander,Wyvern Knight,80,45,10,35,40,55,25,15,10
+Vander,Thief,65,35,10,45,50,50,25,25,5
+Clanne,Sword Fighter,50,45,10,55,70,30,40,30,5
+Clanne,Swordmaster,50,45,10,55,70,30,40,35,5
+Clanne,Hero,55,50,10,50,65,30,35,35,5
+Clanne,Lance Fighter,50,45,15,60,55,40,30,20,5
+Clanne,Halberdier,50,50,15,60,60,45,30,25,5
+Clanne,Royal Knight,45,45,25,55,65,35,45,30,5
+Clanne,Axe Fighter,65,55,10,45,60,35,25,20,10
+Clanne,Berserker,70,65,10,45,60,35,25,20,15
+Clanne,Warrior,65,55,10,50,65,40,30,20,10
+Clanne,Archer,50,50,10,65,60,35,25,25,5
+Clanne,Sniper,55,50,10,70,60,40,25,30,5
+Clanne,Bow Knight,50,45,10,60,70,30,40,35,5
+Clanne,Sword Armor,60,50,10,50,50,60,25,20,10
+Clanne,Lance Armor,60,50,10,50,50,60,25,20,10
+Clanne,Axe Armor,60,50,10,50,50,60,25,20,10
+Clanne,General,65,55,10,50,50,60,25,20,15
+Clanne,Great Knight,60,50,10,55,50,55,35,25,10
+Clanne,Sword Cavalier,50,45,10,50,60,40,35,30,5
+Clanne,Lance Cavalier,50,45,10,50,60,40,35,30,5
+Clanne,Axe Cavalier,50,45,10,50,60,40,35,30,5
+Clanne,Paladin,55,50,10,50,65,45,40,30,5
+Clanne,Wolf Knight,50,40,10,55,70,35,45,40,5
+Clanne,Mage,40,35,35,45,50,30,50,25,5
+Clanne,Sage,40,35,40,45,50,30,55,35,5
+Clanne,Mage Knight,45,40,35,40,55,40,50,25,5
+Clanne,Martial Monk,40,45,35,40,50,40,45,30,5
+Clanne,Martial Master,45,45,30,40,50,45,50,30,5
+Clanne,High Priest,40,35,35,40,55,30,55,50,5
+Clanne,Sword Flier,45,45,15,50,60,30,35,30,5
+Clanne,Lance Flier,45,45,15,50,60,30,35,30,5
+Clanne,Axe Flier,45,45,15,50,60,30,35,30,5
+Clanne,Griffin Knight,40,45,25,55,70,30,40,35,5
+Clanne,Wyvern Knight,60,55,10,50,55,50,30,25,10
+Clanne,Thief,45,45,10,60,65,45,30,35,5
+Framme,Sword Fighter,65,40,25,50,75,25,45,35,0
+Framme,Swordmaster,65,40,25,50,75,25,45,40,0
+Framme,Hero,70,45,25,45,70,25,40,40,0
+Framme,Lance Fighter,65,40,30,55,60,35,35,25,0
+Framme,Halberdier,65,45,30,55,65,40,35,30,0
+Framme,Royal Knight,60,40,40,50,70,30,50,35,0
+Framme,Axe Fighter,80,50,25,40,65,30,30,25,5
+Framme,Berserker,85,60,25,40,65,30,30,25,10
+Framme,Warrior,80,50,25,45,70,35,35,25,5
+Framme,Archer,65,45,25,60,65,30,30,30,0
+Framme,Sniper,70,45,25,65,65,35,30,35,0
+Framme,Bow Knight,65,40,25,55,75,25,45,40,0
+Framme,Sword Armor,75,45,25,45,55,55,30,25,5
+Framme,Lance Armor,75,45,25,45,55,55,30,25,5
+Framme,Axe Armor,75,45,25,45,55,55,30,25,5
+Framme,General,80,50,25,45,55,55,30,25,10
+Framme,Great Knight,75,45,25,50,55,50,40,30,5
+Framme,Sword Cavalier,65,40,25,45,65,35,40,35,0
+Framme,Lance Cavalier,65,40,25,45,65,35,40,35,0
+Framme,Axe Cavalier,65,40,25,45,65,35,40,35,0
+Framme,Paladin,70,45,25,45,70,40,45,35,0
+Framme,Wolf Knight,65,35,25,50,75,30,50,45,0
+Framme,Mage,55,30,50,40,55,25,55,30,0
+Framme,Sage,55,30,55,40,55,25,60,40,0
+Framme,Mage Knight,60,35,50,35,60,35,55,30,0
+Framme,Martial Monk,55,40,50,35,55,35,50,35,0
+Framme,Martial Master,60,40,45,35,55,40,55,35,0
+Framme,High Priest,55,30,50,35,60,25,60,55,0
+Framme,Sword Flier,60,40,30,45,65,25,40,35,0
+Framme,Lance Flier,60,40,30,45,65,25,40,35,0
+Framme,Axe Flier,60,40,30,45,65,25,40,35,0
+Framme,Griffin Knight,55,40,40,50,75,25,45,40,0
+Framme,Wyvern Knight,75,50,25,45,60,45,35,30,5
+Framme,Thief,60,40,25,55,70,40,35,40,0
+Alfred,Noble (Alfred),80,55,5,40,45,60,25,55,10
+Alfred,Avenir,80,55,5,40,50,65,25,60,15
+Alfred,Sword Fighter,75,50,5,50,60,40,35,50,10
+Alfred,Swordmaster,75,50,5,50,60,40,35,55,10
+Alfred,Hero,80,55,5,45,55,40,30,55,10
+Alfred,Lance Fighter,75,50,10,55,45,50,25,40,10
+Alfred,Halberdier,75,55,10,55,50,55,25,45,10
+Alfred,Royal Knight,70,50,20,50,55,45,40,50,10
+Alfred,Axe Fighter,90,60,5,40,50,45,20,40,15
+Alfred,Berserker,95,70,5,40,50,45,20,40,20
+Alfred,Warrior,90,60,5,45,55,50,25,40,15
+Alfred,Archer,75,55,5,60,50,45,20,45,10
+Alfred,Sniper,80,55,5,65,50,50,20,50,10
+Alfred,Bow Knight,75,50,5,55,60,40,35,55,10
+Alfred,Sword Armor,85,55,5,45,40,70,20,40,15
+Alfred,Lance Armor,85,55,5,45,40,70,20,40,15
+Alfred,Axe Armor,85,55,5,45,40,70,20,40,15
+Alfred,General,90,60,5,45,40,70,20,40,20
+Alfred,Great Knight,85,55,5,50,40,65,30,45,15
+Alfred,Sword Cavalier,75,50,5,45,50,50,30,50,10
+Alfred,Lance Cavalier,75,50,5,45,50,50,30,50,10
+Alfred,Axe Cavalier,75,50,5,45,50,50,30,50,10
+Alfred,Paladin,80,55,5,45,55,55,35,50,10
+Alfred,Wolf Knight,75,45,5,50,60,45,40,60,10
+Alfred,Mage,65,40,30,40,40,40,45,45,10
+Alfred,Sage,65,40,35,40,40,40,50,55,10
+Alfred,Mage Knight,70,45,30,35,45,50,45,45,10
+Alfred,Martial Monk,65,50,30,35,40,50,40,50,10
+Alfred,Martial Master,70,50,25,35,40,55,45,50,10
+Alfred,High Priest,65,40,30,35,45,40,50,70,10
+Alfred,Sword Flier,70,50,10,45,50,40,30,50,10
+Alfred,Lance Flier,70,50,10,45,50,40,30,50,10
+Alfred,Axe Flier,70,50,10,45,50,40,30,50,10
+Alfred,Griffin Knight,65,50,20,50,60,40,35,55,10
+Alfred,Wyvern Knight,85,60,5,45,45,60,25,45,15
+Alfred,Thief,70,50,5,55,55,55,25,55,10
+Etie,Sword Fighter,55,50,0,40,55,25,45,35,5
+Etie,Swordmaster,55,50,0,40,55,25,45,40,5
+Etie,Hero,60,55,0,35,50,25,40,40,5
+Etie,Lance Fighter,55,50,5,45,40,35,35,25,5
+Etie,Halberdier,55,55,5,45,45,40,35,30,5
+Etie,Royal Knight,50,50,15,40,50,30,50,35,5
+Etie,Axe Fighter,70,60,0,30,45,30,30,25,10
+Etie,Berserker,75,70,0,30,45,30,30,25,15
+Etie,Warrior,70,60,0,35,50,35,35,25,10
+Etie,Archer,55,55,0,50,45,30,30,30,5
+Etie,Sniper,60,55,0,55,45,35,30,35,5
+Etie,Bow Knight,55,50,0,45,55,25,45,40,5
+Etie,Sword Armor,65,55,0,35,35,55,30,25,10
+Etie,Lance Armor,65,55,0,35,35,55,30,25,10
+Etie,Axe Armor,65,55,0,35,35,55,30,25,10
+Etie,General,70,60,0,35,35,55,30,25,15
+Etie,Great Knight,65,55,0,40,35,50,40,30,10
+Etie,Sword Cavalier,55,50,0,35,45,35,40,35,5
+Etie,Lance Cavalier,55,50,0,35,45,35,40,35,5
+Etie,Axe Cavalier,55,50,0,35,45,35,40,35,5
+Etie,Paladin,60,55,0,35,50,40,45,35,5
+Etie,Wolf Knight,55,45,0,40,55,30,50,45,5
+Etie,Mage,45,40,25,30,35,25,55,30,5
+Etie,Sage,45,40,30,30,35,25,60,40,5
+Etie,Mage Knight,50,45,25,25,40,35,55,30,5
+Etie,Martial Monk,45,50,25,25,35,35,50,35,5
+Etie,Martial Master,50,50,20,25,35,40,55,35,5
+Etie,High Priest,45,40,25,25,40,25,60,55,5
+Etie,Sword Flier,50,50,5,35,45,25,40,35,5
+Etie,Lance Flier,50,50,5,35,45,25,40,35,5
+Etie,Axe Flier,50,50,5,35,45,25,40,35,5
+Etie,Griffin Knight,45,50,15,40,55,25,45,40,5
+Etie,Wyvern Knight,65,60,0,35,40,45,35,30,10
+Etie,Thief,50,50,0,45,50,40,35,40,5
+Boucheron,Sword Fighter,95,30,0,65,65,35,35,25,20
+Boucheron,Swordmaster,95,30,0,65,65,35,35,30,20
+Boucheron,Hero,100,35,0,60,60,35,30,30,20
+Boucheron,Lance Fighter,95,30,5,70,50,45,25,15,20
+Boucheron,Halberdier,95,35,5,70,55,50,25,20,20
+Boucheron,Royal Knight,90,30,15,65,60,40,40,25,20
+Boucheron,Axe Fighter,110,40,0,55,55,40,20,15,25
+Boucheron,Berserker,115,50,0,55,55,40,20,15,30
+Boucheron,Warrior,110,40,0,60,60,45,25,15,25
+Boucheron,Archer,95,35,0,75,55,40,20,20,20
+Boucheron,Sniper,100,35,0,80,55,45,20,25,20
+Boucheron,Bow Knight,95,30,0,70,65,35,35,30,20
+Boucheron,Sword Armor,105,35,0,60,45,65,20,15,25
+Boucheron,Lance Armor,105,35,0,60,45,65,20,15,25
+Boucheron,Axe Armor,105,35,0,60,45,65,20,15,25
+Boucheron,General,110,40,0,60,45,65,20,15,30
+Boucheron,Great Knight,105,35,0,65,45,60,30,20,25
+Boucheron,Sword Cavalier,95,30,0,60,55,45,30,25,20
+Boucheron,Lance Cavalier,95,30,0,60,55,45,30,25,20
+Boucheron,Axe Cavalier,95,30,0,60,55,45,30,25,20
+Boucheron,Paladin,100,35,0,60,60,50,35,25,20
+Boucheron,Wolf Knight,95,25,0,65,65,40,40,35,20
+Boucheron,Mage,85,20,25,55,45,35,45,20,20
+Boucheron,Sage,85,20,30,55,45,35,50,30,20
+Boucheron,Mage Knight,90,25,25,50,50,45,45,20,20
+Boucheron,Martial Monk,85,30,25,50,45,45,40,25,20
+Boucheron,Martial Master,90,30,20,50,45,50,45,25,20
+Boucheron,High Priest,85,20,25,50,50,35,50,45,20
+Boucheron,Sword Flier,90,30,5,60,55,35,30,25,20
+Boucheron,Lance Flier,90,30,5,60,55,35,30,25,20
+Boucheron,Axe Flier,90,30,5,60,55,35,30,25,20
+Boucheron,Griffin Knight,85,30,15,65,65,35,35,30,20
+Boucheron,Wyvern Knight,105,40,0,60,50,55,25,20,25
+Boucheron,Thief,90,30,0,70,60,50,25,30,20
+Celine,Noble (Celine),50,40,35,35,50,35,50,70,5
+Celine,Vidame,55,45,40,35,50,35,55,70,5
+Celine,Sword Fighter,60,45,25,45,65,30,55,60,5
+Celine,Swordmaster,60,45,25,45,65,30,55,65,5
+Celine,Hero,65,50,25,40,60,30,50,65,5
+Celine,Lance Fighter,60,45,30,50,50,40,45,50,5
+Celine,Halberdier,60,50,30,50,55,45,45,55,5
+Celine,Royal Knight,55,45,40,45,60,35,60,60,5
+Celine,Axe Fighter,75,55,25,35,55,35,40,50,10
+Celine,Berserker,80,65,25,35,55,35,40,50,15
+Celine,Warrior,75,55,25,40,60,40,45,50,10
+Celine,Archer,60,50,25,55,55,35,40,55,5
+Celine,Sniper,65,50,25,60,55,40,40,60,5
+Celine,Bow Knight,60,45,25,50,65,30,55,65,5
+Celine,Sword Armor,70,50,25,40,45,60,40,50,10
+Celine,Lance Armor,70,50,25,40,45,60,40,50,10
+Celine,Axe Armor,70,50,25,40,45,60,40,50,10
+Celine,General,75,55,25,40,45,60,40,50,15
+Celine,Great Knight,70,50,25,45,45,55,50,55,10
+Celine,Sword Cavalier,60,45,25,40,55,40,50,60,5
+Celine,Lance Cavalier,60,45,25,40,55,40,50,60,5
+Celine,Axe Cavalier,60,45,25,40,55,40,50,60,5
+Celine,Paladin,65,50,25,40,60,45,55,60,5
+Celine,Wolf Knight,60,40,25,45,65,35,60,70,5
+Celine,Mage,50,35,50,35,45,30,65,55,5
+Celine,Sage,50,35,55,35,45,30,70,65,5
+Celine,Mage Knight,55,40,50,30,50,40,65,55,5
+Celine,Martial Monk,50,45,50,30,45,40,60,60,5
+Celine,Martial Master,55,45,45,30,45,45,65,60,5
+Celine,High Priest,50,35,50,30,50,30,70,80,5
+Celine,Sword Flier,55,45,30,40,55,30,50,60,5
+Celine,Lance Flier,55,45,30,40,55,30,50,60,5
+Celine,Axe Flier,55,45,30,40,55,30,50,60,5
+Celine,Griffin Knight,50,45,40,45,65,30,55,65,5
+Celine,Wyvern Knight,70,55,25,40,50,50,45,55,10
+Celine,Thief,55,45,25,50,60,45,45,65,5
+Chloe,Sword Fighter,85,35,35,55,75,30,40,35,5
+Chloe,Swordmaster,85,35,35,55,75,30,40,40,5
+Chloe,Hero,90,40,35,50,70,30,35,40,5
+Chloe,Lance Fighter,85,35,40,60,60,40,30,25,5
+Chloe,Halberdier,85,40,40,60,65,45,30,30,5
+Chloe,Royal Knight,80,35,50,55,70,35,45,35,5
+Chloe,Axe Fighter,100,45,35,45,65,35,25,25,10
+Chloe,Berserker,105,55,35,45,65,35,25,25,15
+Chloe,Warrior,100,45,35,50,70,40,30,25,10
+Chloe,Archer,85,40,35,65,65,35,25,30,5
+Chloe,Sniper,90,40,35,70,65,40,25,35,5
+Chloe,Bow Knight,85,35,35,60,75,30,40,40,5
+Chloe,Sword Armor,95,40,35,50,55,60,25,25,10
+Chloe,Lance Armor,95,40,35,50,55,60,25,25,10
+Chloe,Axe Armor,95,40,35,50,55,60,25,25,10
+Chloe,General,100,45,35,50,55,60,25,25,15
+Chloe,Great Knight,95,40,35,55,55,55,35,30,10
+Chloe,Sword Cavalier,85,35,35,50,65,40,35,35,5
+Chloe,Lance Cavalier,85,35,35,50,65,40,35,35,5
+Chloe,Axe Cavalier,85,35,35,50,65,40,35,35,5
+Chloe,Paladin,90,40,35,50,70,45,40,35,5
+Chloe,Wolf Knight,85,30,35,55,75,35,45,45,5
+Chloe,Mage,75,25,60,45,55,30,50,30,5
+Chloe,Sage,75,25,65,45,55,30,55,40,5
+Chloe,Mage Knight,80,30,60,40,60,40,50,30,5
+Chloe,Martial Monk,75,35,60,40,55,40,45,35,5
+Chloe,Martial Master,80,35,55,40,55,45,50,35,5
+Chloe,High Priest,75,25,60,40,60,30,55,55,5
+Chloe,Sword Flier,80,35,40,50,65,30,35,35,5
+Chloe,Lance Flier,80,35,40,50,65,30,35,35,5
+Chloe,Axe Flier,80,35,40,50,65,30,35,35,5
+Chloe,Griffin Knight,75,35,50,55,75,30,40,40,5
+Chloe,Wyvern Knight,95,45,35,50,60,50,30,30,10
+Chloe,Thief,80,35,35,60,70,45,30,40,5
+Louis,Sword Fighter,85,50,0,40,45,50,35,35,15
+Louis,Swordmaster,85,50,0,40,45,50,35,40,15
+Louis,Hero,90,55,0,35,40,50,30,40,15
+Louis,Lance Fighter,85,50,5,45,30,60,25,25,15
+Louis,Halberdier,85,55,5,45,35,65,25,30,15
+Louis,Royal Knight,80,50,15,40,40,55,40,35,15
+Louis,Axe Fighter,100,60,0,30,35,55,20,25,20
+Louis,Berserker,105,70,0,30,35,55,20,25,25
+Louis,Warrior,100,60,0,35,40,60,25,25,20
+Louis,Archer,85,55,0,50,35,55,20,30,15
+Louis,Sniper,90,55,0,55,35,60,20,35,15
+Louis,Bow Knight,85,50,0,45,45,50,35,40,15
+Louis,Sword Armor,95,55,0,35,25,80,20,25,20
+Louis,Lance Armor,95,55,0,35,25,80,20,25,20
+Louis,Axe Armor,95,55,0,35,25,80,20,25,20
+Louis,General,100,60,0,35,25,80,20,25,25
+Louis,Great Knight,95,55,0,40,25,75,30,30,20
+Louis,Sword Cavalier,85,50,0,35,35,60,30,35,15
+Louis,Lance Cavalier,85,50,0,35,35,60,30,35,15
+Louis,Axe Cavalier,85,50,0,35,35,60,30,35,15
+Louis,Paladin,90,55,0,35,40,65,35,35,15
+Louis,Wolf Knight,85,45,0,40,45,55,40,45,15
+Louis,Mage,75,40,25,30,25,50,45,30,15
+Louis,Sage,75,40,30,30,25,50,50,40,15
+Louis,Mage Knight,80,45,25,25,30,60,45,30,15
+Louis,Martial Monk,75,50,25,25,25,60,40,35,15
+Louis,Martial Master,80,50,20,25,25,65,45,35,15
+Louis,High Priest,75,40,25,25,30,50,50,55,15
+Louis,Sword Flier,80,50,5,35,35,50,30,35,15
+Louis,Lance Flier,80,50,5,35,35,50,30,35,15
+Louis,Axe Flier,80,50,5,35,35,50,30,35,15
+Louis,Griffin Knight,75,50,15,40,45,50,35,40,15
+Louis,Wyvern Knight,95,60,0,35,30,70,25,30,20
+Louis,Thief,80,50,0,45,40,65,25,40,15
+Yunaka,Sword Fighter,60,45,25,55,65,15,60,35,5
+Yunaka,Swordmaster,60,45,25,55,65,15,60,40,5
+Yunaka,Hero,65,50,25,50,60,15,55,40,5
+Yunaka,Lance Fighter,60,45,30,60,50,25,50,25,5
+Yunaka,Halberdier,60,50,30,60,55,30,50,30,5
+Yunaka,Royal Knight,55,45,40,55,60,20,65,35,5
+Yunaka,Axe Fighter,75,55,25,45,55,20,45,25,10
+Yunaka,Berserker,80,65,25,45,55,20,45,25,15
+Yunaka,Warrior,75,55,25,50,60,25,50,25,10
+Yunaka,Archer,60,50,25,65,55,20,45,30,5
+Yunaka,Sniper,65,50,25,70,55,25,45,35,5
+Yunaka,Bow Knight,60,45,25,60,65,15,60,40,5
+Yunaka,Sword Armor,70,50,25,50,45,45,45,25,10
+Yunaka,Lance Armor,70,50,25,50,45,45,45,25,10
+Yunaka,Axe Armor,70,50,25,50,45,45,45,25,10
+Yunaka,General,75,55,25,50,45,45,45,25,15
+Yunaka,Great Knight,70,50,25,55,45,40,55,30,10
+Yunaka,Sword Cavalier,60,45,25,50,55,25,55,35,5
+Yunaka,Lance Cavalier,60,45,25,50,55,25,55,35,5
+Yunaka,Axe Cavalier,60,45,25,50,55,25,55,35,5
+Yunaka,Paladin,65,50,25,50,60,30,60,35,5
+Yunaka,Wolf Knight,60,40,25,55,65,20,65,45,5
+Yunaka,Mage,50,35,50,45,45,15,70,30,5
+Yunaka,Sage,50,35,55,45,45,15,75,40,5
+Yunaka,Mage Knight,55,40,50,40,50,25,70,30,5
+Yunaka,Martial Monk,50,45,50,40,45,25,65,35,5
+Yunaka,Martial Master,55,45,45,40,45,30,70,35,5
+Yunaka,High Priest,50,35,50,40,50,15,75,55,5
+Yunaka,Sword Flier,55,45,30,50,55,15,55,35,5
+Yunaka,Lance Flier,55,45,30,50,55,15,55,35,5
+Yunaka,Axe Flier,55,45,30,50,55,15,55,35,5
+Yunaka,Griffin Knight,50,45,40,55,65,15,60,40,5
+Yunaka,Wyvern Knight,70,55,25,50,50,35,50,30,10
+Yunaka,Thief,55,45,25,60,60,30,50,40,5
+Alcryst,Lord (Alcryst),75,40,10,65,55,40,20,20,10
+Alcryst,Tireur d' Elite,75,40,10,70,55,45,25,20,10
+Alcryst,Sword Fighter,75,40,10,55,65,30,35,25,10
+Alcryst,Swordmaster,75,40,10,55,65,30,35,30,10
+Alcryst,Hero,80,45,10,50,60,30,30,30,10
+Alcryst,Lance Fighter,75,40,15,60,50,40,25,15,10
+Alcryst,Halberdier,75,45,15,60,55,45,25,20,10
+Alcryst,Royal Knight,70,40,25,55,60,35,40,25,10
+Alcryst,Axe Fighter,90,50,10,45,55,35,20,15,15
+Alcryst,Berserker,95,60,10,45,55,35,20,15,20
+Alcryst,Warrior,90,50,10,50,60,40,25,15,15
+Alcryst,Archer,75,45,10,65,55,35,20,20,10
+Alcryst,Sniper,80,45,10,70,55,40,20,25,10
+Alcryst,Bow Knight,75,40,10,60,65,30,35,30,10
+Alcryst,Sword Armor,85,45,10,50,45,60,20,15,15
+Alcryst,Lance Armor,85,45,10,50,45,60,20,15,15
+Alcryst,Axe Armor,85,45,10,50,45,60,20,15,15
+Alcryst,General,90,50,10,50,45,60,20,15,20
+Alcryst,Great Knight,85,45,10,55,45,55,30,20,15
+Alcryst,Sword Cavalier,75,40,10,50,55,40,30,25,10
+Alcryst,Lance Cavalier,75,40,10,50,55,40,30,25,10
+Alcryst,Axe Cavalier,75,40,10,50,55,40,30,25,10
+Alcryst,Paladin,80,45,10,50,60,45,35,25,10
+Alcryst,Wolf Knight,75,35,10,55,65,35,40,35,10
+Alcryst,Mage,65,30,35,45,45,30,45,20,10
+Alcryst,Sage,65,30,40,45,45,30,50,30,10
+Alcryst,Mage Knight,70,35,35,40,50,40,45,20,10
+Alcryst,Martial Monk,65,40,35,40,45,40,40,25,10
+Alcryst,Martial Master,70,40,30,40,45,45,45,25,10
+Alcryst,High Priest,65,30,35,40,50,30,50,45,10
+Alcryst,Sword Flier,70,40,15,50,55,30,30,25,10
+Alcryst,Lance Flier,70,40,15,50,55,30,30,25,10
+Alcryst,Axe Flier,70,40,15,50,55,30,30,25,10
+Alcryst,Griffin Knight,65,40,25,55,65,30,35,30,10
+Alcryst,Wyvern Knight,85,50,10,50,50,50,25,20,15
+Alcryst,Thief,70,40,10,60,60,45,25,30,10
+Citrinne,Sword Fighter,55,20,40,40,50,20,55,35,5
+Citrinne,Swordmaster,55,20,40,40,50,20,55,40,5
+Citrinne,Hero,60,25,40,35,45,20,50,40,5
+Citrinne,Lance Fighter,55,20,45,45,35,30,45,25,5
+Citrinne,Halberdier,55,25,45,45,40,35,45,30,5
+Citrinne,Royal Knight,50,20,55,40,45,25,60,35,5
+Citrinne,Axe Fighter,70,30,40,30,40,25,40,25,10
+Citrinne,Berserker,75,40,40,30,40,25,40,25,15
+Citrinne,Warrior,70,30,40,35,45,30,45,25,10
+Citrinne,Archer,55,25,40,50,40,25,40,30,5
+Citrinne,Sniper,60,25,40,55,40,30,40,35,5
+Citrinne,Bow Knight,55,20,40,45,50,20,55,40,5
+Citrinne,Sword Armor,65,25,40,35,30,50,40,25,10
+Citrinne,Lance Armor,65,25,40,35,30,50,40,25,10
+Citrinne,Axe Armor,65,25,40,35,30,50,40,25,10
+Citrinne,General,70,30,40,35,30,50,40,25,15
+Citrinne,Great Knight,65,25,40,40,30,45,50,30,10
+Citrinne,Sword Cavalier,55,20,40,35,40,30,50,35,5
+Citrinne,Lance Cavalier,55,20,40,35,40,30,50,35,5
+Citrinne,Axe Cavalier,55,20,40,35,40,30,50,35,5
+Citrinne,Paladin,60,25,40,35,45,35,55,35,5
+Citrinne,Wolf Knight,55,15,40,40,50,25,60,45,5
+Citrinne,Mage,45,10,65,30,30,20,65,30,5
+Citrinne,Sage,45,10,70,30,30,20,70,40,5
+Citrinne,Mage Knight,50,15,65,25,35,30,65,30,5
+Citrinne,Martial Monk,45,20,65,25,30,30,60,35,5
+Citrinne,Martial Master,50,20,60,25,30,35,65,35,5
+Citrinne,High Priest,45,10,65,25,35,20,70,55,5
+Citrinne,Sword Flier,50,20,45,35,40,20,50,35,5
+Citrinne,Lance Flier,50,20,45,35,40,20,50,35,5
+Citrinne,Axe Flier,50,20,45,35,40,20,50,35,5
+Citrinne,Griffin Knight,45,20,55,40,50,20,55,40,5
+Citrinne,Wyvern Knight,65,30,40,35,35,40,45,30,10
+Citrinne,Thief,50,20,40,45,45,35,45,40,5
+Lapis,Sword Fighter,65,35,20,50,75,35,45,35,5
+Lapis,Swordmaster,65,35,20,50,75,35,45,40,5
+Lapis,Hero,70,40,20,45,70,35,40,40,5
+Lapis,Lance Fighter,65,35,25,55,60,45,35,25,5
+Lapis,Halberdier,65,40,25,55,65,50,35,30,5
+Lapis,Royal Knight,60,35,35,50,70,40,50,35,5
+Lapis,Axe Fighter,80,45,20,40,65,40,30,25,10
+Lapis,Berserker,85,55,20,40,65,40,30,25,15
+Lapis,Warrior,80,45,20,45,70,45,35,25,10
+Lapis,Archer,65,40,20,60,65,40,30,30,5
+Lapis,Sniper,70,40,20,65,65,45,30,35,5
+Lapis,Bow Knight,65,35,20,55,75,35,45,40,5
+Lapis,Sword Armor,75,40,20,45,55,65,30,25,10
+Lapis,Lance Armor,75,40,20,45,55,65,30,25,10
+Lapis,Axe Armor,75,40,20,45,55,65,30,25,10
+Lapis,General,80,45,20,45,55,65,30,25,15
+Lapis,Great Knight,75,40,20,50,55,60,40,30,10
+Lapis,Sword Cavalier,65,35,20,45,65,45,40,35,5
+Lapis,Lance Cavalier,65,35,20,45,65,45,40,35,5
+Lapis,Axe Cavalier,65,35,20,45,65,45,40,35,5
+Lapis,Paladin,70,40,20,45,70,50,45,35,5
+Lapis,Wolf Knight,65,30,20,50,75,40,50,45,5
+Lapis,Mage,55,25,45,40,55,35,55,30,5
+Lapis,Sage,55,25,50,40,55,35,60,40,5
+Lapis,Mage Knight,60,30,45,35,60,45,55,30,5
+Lapis,Martial Monk,55,35,45,35,55,45,50,35,5
+Lapis,Martial Master,60,35,40,35,55,50,55,35,5
+Lapis,High Priest,55,25,45,35,60,35,60,55,5
+Lapis,Sword Flier,60,35,25,45,65,35,40,35,5
+Lapis,Lance Flier,60,35,25,45,65,35,40,35,5
+Lapis,Axe Flier,60,35,25,45,65,35,40,35,5
+Lapis,Griffin Knight,55,35,35,50,75,35,45,40,5
+Lapis,Wyvern Knight,75,45,20,45,60,55,35,30,10
+Lapis,Thief,60,35,20,55,70,50,35,40,5
+Diamant,Lord (Diamant),90,50,15,30,50,50,25,25,15
+Diamant,Successeur,90,50,15,30,55,55,25,30,20
+Diamant,Sword Fighter,85,40,15,35,60,40,40,30,15
+Diamant,Swordmaster,85,40,15,35,60,40,40,35,15
+Diamant,Hero,90,45,15,30,55,40,35,35,15
+Diamant,Lance Fighter,85,40,20,40,45,50,30,20,15
+Diamant,Halberdier,85,45,20,40,50,55,30,25,15
+Diamant,Royal Knight,80,40,30,35,55,45,45,30,15
+Diamant,Axe Fighter,100,50,15,25,50,45,25,20,20
+Diamant,Berserker,105,60,15,25,50,45,25,20,25
+Diamant,Warrior,100,50,15,30,55,50,30,20,20
+Diamant,Archer,85,45,15,45,50,45,25,25,15
+Diamant,Sniper,90,45,15,50,50,50,25,30,15
+Diamant,Bow Knight,85,40,15,40,60,40,40,35,15
+Diamant,Sword Armor,95,45,15,30,40,70,25,20,20
+Diamant,Lance Armor,95,45,15,30,40,70,25,20,20
+Diamant,Axe Armor,95,45,15,30,40,70,25,20,20
+Diamant,General,100,50,15,30,40,70,25,20,25
+Diamant,Great Knight,95,45,15,35,40,65,35,25,20
+Diamant,Sword Cavalier,85,40,15,30,50,50,35,30,15
+Diamant,Lance Cavalier,85,40,15,30,50,50,35,30,15
+Diamant,Axe Cavalier,85,40,15,30,50,50,35,30,15
+Diamant,Paladin,90,45,15,30,55,55,40,30,15
+Diamant,Wolf Knight,85,35,15,35,60,45,45,40,15
+Diamant,Mage,75,30,40,25,40,40,50,25,15
+Diamant,Sage,75,30,45,25,40,40,55,35,15
+Diamant,Mage Knight,80,35,40,20,45,50,50,25,15
+Diamant,Martial Monk,75,40,40,20,40,50,45,30,15
+Diamant,Martial Master,80,40,35,20,40,55,50,30,15
+Diamant,High Priest,75,30,40,20,45,40,55,50,15
+Diamant,Sword Flier,80,40,20,30,50,40,35,30,15
+Diamant,Lance Flier,80,40,20,30,50,40,35,30,15
+Diamant,Axe Flier,80,40,20,30,50,40,35,30,15
+Diamant,Griffin Knight,75,40,30,35,60,40,40,35,15
+Diamant,Wyvern Knight,95,50,15,30,45,60,30,25,20
+Diamant,Thief,80,40,15,40,55,55,30,35,15
+Amber,Sword Fighter,75,55,0,40,50,35,20,45,15
+Amber,Swordmaster,75,55,0,40,50,35,20,50,15
+Amber,Hero,80,60,0,35,45,35,15,50,15
+Amber,Lance Fighter,75,55,5,45,35,45,10,35,15
+Amber,Halberdier,75,60,5,45,40,50,10,40,15
+Amber,Royal Knight,70,55,15,40,45,40,25,45,15
+Amber,Axe Fighter,90,65,0,30,40,40,5,35,20
+Amber,Berserker,95,75,0,30,40,40,5,35,25
+Amber,Warrior,90,65,0,35,45,45,10,35,20
+Amber,Archer,75,60,0,50,40,40,5,40,15
+Amber,Sniper,80,60,0,55,40,45,5,45,15
+Amber,Bow Knight,75,55,0,45,50,35,20,50,15
+Amber,Sword Armor,85,60,0,35,30,65,5,35,20
+Amber,Lance Armor,85,60,0,35,30,65,5,35,20
+Amber,Axe Armor,85,60,0,35,30,65,5,35,20
+Amber,General,90,65,0,35,30,65,5,35,25
+Amber,Great Knight,85,60,0,40,30,60,15,40,20
+Amber,Sword Cavalier,75,55,0,35,40,45,15,45,15
+Amber,Lance Cavalier,75,55,0,35,40,45,15,45,15
+Amber,Axe Cavalier,75,55,0,35,40,45,15,45,15
+Amber,Paladin,80,60,0,35,45,50,20,45,15
+Amber,Wolf Knight,75,50,0,40,50,40,25,55,15
+Amber,Mage,65,45,25,30,30,35,30,40,15
+Amber,Sage,65,45,30,30,30,35,35,50,15
+Amber,Mage Knight,70,50,25,25,35,45,30,40,15
+Amber,Martial Monk,65,55,25,25,30,45,25,45,15
+Amber,Martial Master,70,55,20,25,30,50,30,45,15
+Amber,High Priest,65,45,25,25,35,35,35,65,15
+Amber,Sword Flier,70,55,5,35,40,35,15,45,15
+Amber,Lance Flier,70,55,5,35,40,35,15,45,15
+Amber,Axe Flier,70,55,5,35,40,35,15,45,15
+Amber,Griffin Knight,65,55,15,40,50,35,20,50,15
+Amber,Wyvern Knight,85,65,0,35,35,55,10,40,20
+Amber,Thief,70,55,0,45,45,50,10,50,15
+Jade,Sword Fighter,65,45,25,50,50,40,45,30,10
+Jade,Swordmaster,65,45,25,50,50,40,45,35,10
+Jade,Hero,70,50,25,45,45,40,40,35,10
+Jade,Lance Fighter,65,45,30,55,35,50,35,20,10
+Jade,Halberdier,65,50,30,55,40,55,35,25,10
+Jade,Royal Knight,60,45,40,50,45,45,50,30,10
+Jade,Axe Fighter,80,55,25,40,40,45,30,20,15
+Jade,Berserker,85,65,25,40,40,45,30,20,20
+Jade,Warrior,80,55,25,45,45,50,35,20,15
+Jade,Archer,65,50,25,60,40,45,30,25,10
+Jade,Sniper,70,50,25,65,40,50,30,30,10
+Jade,Bow Knight,65,45,25,55,50,40,45,35,10
+Jade,Sword Armor,75,50,25,45,30,70,30,20,15
+Jade,Lance Armor,75,50,25,45,30,70,30,20,15
+Jade,Axe Armor,75,50,25,45,30,70,30,20,15
+Jade,General,80,55,25,45,30,70,30,20,20
+Jade,Great Knight,75,50,25,50,30,65,40,25,15
+Jade,Sword Cavalier,65,45,25,45,40,50,40,30,10
+Jade,Lance Cavalier,65,45,25,45,40,50,40,30,10
+Jade,Axe Cavalier,65,45,25,45,40,50,40,30,10
+Jade,Paladin,70,50,25,45,45,55,45,30,10
+Jade,Wolf Knight,65,40,25,50,50,45,50,40,10
+Jade,Mage,55,35,50,40,30,40,55,25,10
+Jade,Sage,55,35,55,40,30,40,60,35,10
+Jade,Mage Knight,60,40,50,35,35,50,55,25,10
+Jade,Martial Monk,55,45,50,35,30,50,50,30,10
+Jade,Martial Master,60,45,45,35,30,55,55,30,10
+Jade,High Priest,55,35,50,35,35,40,60,50,10
+Jade,Sword Flier,60,45,30,45,40,40,40,30,10
+Jade,Lance Flier,60,45,30,45,40,40,40,30,10
+Jade,Axe Flier,60,45,30,45,40,40,40,30,10
+Jade,Griffin Knight,55,45,40,50,50,40,45,35,10
+Jade,Wyvern Knight,75,55,25,45,35,60,35,25,15
+Jade,Thief,60,45,25,55,45,55,35,35,10
+Ivy,Wing Tamer (Ivy),60,25,50,25,40,40,55,15,10
+Ivy,Lindwurm,60,25,55,30,40,45,60,15,10
+Ivy,Sword Fighter,65,35,30,40,60,30,50,25,10
+Ivy,Swordmaster,65,35,30,40,60,30,50,30,10
+Ivy,Hero,70,40,30,35,55,30,45,30,10
+Ivy,Lance Fighter,65,35,35,45,45,40,40,15,10
+Ivy,Halberdier,65,40,35,45,50,45,40,20,10
+Ivy,Royal Knight,60,35,45,40,55,35,55,25,10
+Ivy,Axe Fighter,80,45,30,30,50,35,35,15,15
+Ivy,Berserker,85,55,30,30,50,35,35,15,20
+Ivy,Warrior,80,45,30,35,55,40,40,15,15
+Ivy,Archer,65,40,30,50,50,35,35,20,10
+Ivy,Sniper,70,40,30,55,50,40,35,25,10
+Ivy,Bow Knight,65,35,30,45,60,30,50,30,10
+Ivy,Sword Armor,75,40,30,35,40,60,35,15,15
+Ivy,Lance Armor,75,40,30,35,40,60,35,15,15
+Ivy,Axe Armor,75,40,30,35,40,60,35,15,15
+Ivy,General,80,45,30,35,40,60,35,15,20
+Ivy,Great Knight,75,40,30,40,40,55,45,20,15
+Ivy,Sword Cavalier,65,35,30,35,50,40,45,25,10
+Ivy,Lance Cavalier,65,35,30,35,50,40,45,25,10
+Ivy,Axe Cavalier,65,35,30,35,50,40,45,25,10
+Ivy,Paladin,70,40,30,35,55,45,50,25,10
+Ivy,Wolf Knight,65,30,30,40,60,35,55,35,10
+Ivy,Mage,55,25,55,30,40,30,60,20,10
+Ivy,Sage,55,25,60,30,40,30,65,30,10
+Ivy,Mage Knight,60,30,55,25,45,40,60,20,10
+Ivy,Martial Monk,55,35,55,25,40,40,55,25,10
+Ivy,Martial Master,60,35,50,25,40,45,60,25,10
+Ivy,High Priest,55,25,55,25,45,30,65,45,10
+Ivy,Sword Flier,60,35,35,35,50,30,45,25,10
+Ivy,Lance Flier,60,35,35,35,50,30,45,25,10
+Ivy,Axe Flier,60,35,35,35,50,30,45,25,10
+Ivy,Griffin Knight,55,35,45,40,60,30,50,30,10
+Ivy,Wyvern Knight,75,45,30,35,45,50,40,20,15
+Ivy,Thief,60,35,30,45,55,45,40,30,10
+Kagetsu,Sword Fighter,70,40,15,65,70,40,40,50,10
+Kagetsu,Swordmaster,70,40,15,65,70,40,40,55,10
+Kagetsu,Hero,75,45,15,60,65,40,35,55,10
+Kagetsu,Lance Fighter,70,40,20,70,55,50,30,40,10
+Kagetsu,Halberdier,70,45,20,70,60,55,30,45,10
+Kagetsu,Royal Knight,65,40,30,65,65,45,45,50,10
+Kagetsu,Axe Fighter,85,50,15,55,60,45,25,40,15
+Kagetsu,Berserker,90,60,15,55,60,45,25,40,20
+Kagetsu,Warrior,85,50,15,60,65,50,30,40,15
+Kagetsu,Archer,70,45,15,75,60,45,25,45,10
+Kagetsu,Sniper,75,45,15,80,60,50,25,50,10
+Kagetsu,Bow Knight,70,40,15,70,70,40,40,55,10
+Kagetsu,Sword Armor,80,45,15,60,50,70,25,40,15
+Kagetsu,Lance Armor,80,45,15,60,50,70,25,40,15
+Kagetsu,Axe Armor,80,45,15,60,50,70,25,40,15
+Kagetsu,General,85,50,15,60,50,70,25,40,20
+Kagetsu,Great Knight,80,45,15,65,50,65,35,45,15
+Kagetsu,Sword Cavalier,70,40,15,60,60,50,35,50,10
+Kagetsu,Lance Cavalier,70,40,15,60,60,50,35,50,10
+Kagetsu,Axe Cavalier,70,40,15,60,60,50,35,50,10
+Kagetsu,Paladin,75,45,15,60,65,55,40,50,10
+Kagetsu,Wolf Knight,70,35,15,65,70,45,45,60,10
+Kagetsu,Mage,60,30,40,55,50,40,50,45,10
+Kagetsu,Sage,60,30,45,55,50,40,55,55,10
+Kagetsu,Mage Knight,65,35,40,50,55,50,50,45,10
+Kagetsu,Martial Monk,60,40,40,50,50,50,45,50,10
+Kagetsu,Martial Master,65,40,35,50,50,55,50,50,10
+Kagetsu,High Priest,60,30,40,50,55,40,55,70,10
+Kagetsu,Sword Flier,65,40,20,60,60,40,35,50,10
+Kagetsu,Lance Flier,65,40,20,60,60,40,35,50,10
+Kagetsu,Axe Flier,65,40,20,60,60,40,35,50,10
+Kagetsu,Griffin Knight,60,40,30,65,70,40,40,55,10
+Kagetsu,Wyvern Knight,80,50,15,60,55,60,30,45,15
+Kagetsu,Thief,65,40,15,70,65,55,30,55,10
+Zelkov,Sword Fighter,75,45,15,55,55,35,30,35,10
+Zelkov,Swordmaster,75,45,15,55,55,35,30,40,10
+Zelkov,Hero,80,50,15,50,50,35,25,40,10
+Zelkov,Lance Fighter,75,45,20,60,40,45,20,25,10
+Zelkov,Halberdier,75,50,20,60,45,50,20,30,10
+Zelkov,Royal Knight,70,45,30,55,50,40,35,35,10
+Zelkov,Axe Fighter,90,55,15,45,45,40,15,25,15
+Zelkov,Berserker,95,65,15,45,45,40,15,25,20
+Zelkov,Warrior,90,55,15,50,50,45,20,25,15
+Zelkov,Archer,75,50,15,65,45,40,15,30,10
+Zelkov,Sniper,80,50,15,70,45,45,15,35,10
+Zelkov,Bow Knight,75,45,15,60,55,35,30,40,10
+Zelkov,Sword Armor,85,50,15,50,35,65,15,25,15
+Zelkov,Lance Armor,85,50,15,50,35,65,15,25,15
+Zelkov,Axe Armor,85,50,15,50,35,65,15,25,15
+Zelkov,General,90,55,15,50,35,65,15,25,20
+Zelkov,Great Knight,85,50,15,55,35,60,25,30,15
+Zelkov,Sword Cavalier,75,45,15,50,45,45,25,35,10
+Zelkov,Lance Cavalier,75,45,15,50,45,45,25,35,10
+Zelkov,Axe Cavalier,75,45,15,50,45,45,25,35,10
+Zelkov,Paladin,80,50,15,50,50,50,30,35,10
+Zelkov,Wolf Knight,75,40,15,55,55,40,35,45,10
+Zelkov,Mage,65,35,40,45,35,35,40,30,10
+Zelkov,Sage,65,35,45,45,35,35,45,40,10
+Zelkov,Mage Knight,70,40,40,40,40,45,40,30,10
+Zelkov,Martial Monk,65,45,40,40,35,45,35,35,10
+Zelkov,Martial Master,70,45,35,40,35,50,40,35,10
+Zelkov,High Priest,65,35,40,40,40,35,45,55,10
+Zelkov,Sword Flier,70,45,20,50,45,35,25,35,10
+Zelkov,Lance Flier,70,45,20,50,45,35,25,35,10
+Zelkov,Axe Flier,70,45,20,50,45,35,25,35,10
+Zelkov,Griffin Knight,65,45,30,55,55,35,30,40,10
+Zelkov,Wyvern Knight,85,55,15,50,40,55,20,30,15
+Zelkov,Thief,70,45,15,60,50,50,20,40,10
+Fogado,Sentinel (Fogado),70,35,25,45,70,35,50,25,10
+Fogado,Cupido,70,35,30,50,75,35,55,25,10
+Fogado,Sword Fighter,70,40,25,45,75,30,50,35,10
+Fogado,Swordmaster,70,40,25,45,75,30,50,40,10
+Fogado,Hero,75,45,25,40,70,30,45,40,10
+Fogado,Lance Fighter,70,40,30,50,60,40,40,25,10
+Fogado,Halberdier,70,45,30,50,65,45,40,30,10
+Fogado,Royal Knight,65,40,40,45,70,35,55,35,10
+Fogado,Axe Fighter,85,50,25,35,65,35,35,25,15
+Fogado,Berserker,90,60,25,35,65,35,35,25,20
+Fogado,Warrior,85,50,25,40,70,40,40,25,15
+Fogado,Archer,70,45,25,55,65,35,35,30,10
+Fogado,Sniper,75,45,25,60,65,40,35,35,10
+Fogado,Bow Knight,70,40,25,50,75,30,50,40,10
+Fogado,Sword Armor,80,45,25,40,55,60,35,25,15
+Fogado,Lance Armor,80,45,25,40,55,60,35,25,15
+Fogado,Axe Armor,80,45,25,40,55,60,35,25,15
+Fogado,General,85,50,25,40,55,60,35,25,20
+Fogado,Great Knight,80,45,25,45,55,55,45,30,15
+Fogado,Sword Cavalier,70,40,25,40,65,40,45,35,10
+Fogado,Lance Cavalier,70,40,25,40,65,40,45,35,10
+Fogado,Axe Cavalier,70,40,25,40,65,40,45,35,10
+Fogado,Paladin,75,45,25,40,70,45,50,35,10
+Fogado,Wolf Knight,70,35,25,45,75,35,55,45,10
+Fogado,Mage,60,30,50,35,55,30,60,30,10
+Fogado,Sage,60,30,55,35,55,30,65,40,10
+Fogado,Mage Knight,65,35,50,30,60,40,60,30,10
+Fogado,Martial Monk,60,40,50,30,55,40,55,35,10
+Fogado,Martial Master,65,40,45,30,55,45,60,35,10
+Fogado,High Priest,60,30,50,30,60,30,65,55,10
+Fogado,Sword Flier,65,40,30,40,65,30,45,35,10
+Fogado,Lance Flier,65,40,30,40,65,30,45,35,10
+Fogado,Axe Flier,65,40,30,40,65,30,45,35,10
+Fogado,Griffin Knight,60,40,40,45,75,30,50,40,10
+Fogado,Wyvern Knight,80,50,25,40,60,50,40,30,15
+Fogado,Thief,65,40,25,50,70,45,40,40,10
+Pandreo,Sword Fighter,70,15,30,60,65,15,70,40,15
+Pandreo,Swordmaster,70,15,30,60,65,15,70,45,15
+Pandreo,Hero,75,20,30,55,60,15,65,45,15
+Pandreo,Lance Fighter,70,15,35,65,50,25,60,30,15
+Pandreo,Halberdier,70,20,35,65,55,30,60,35,15
+Pandreo,Royal Knight,65,15,45,60,60,20,75,40,15
+Pandreo,Axe Fighter,85,25,30,50,55,20,55,30,20
+Pandreo,Berserker,90,35,30,50,55,20,55,30,25
+Pandreo,Warrior,85,25,30,55,60,25,60,30,20
+Pandreo,Archer,70,20,30,70,55,20,55,35,15
+Pandreo,Sniper,75,20,30,75,55,25,55,40,15
+Pandreo,Bow Knight,70,15,30,65,65,15,70,45,15
+Pandreo,Sword Armor,80,20,30,55,45,45,55,30,20
+Pandreo,Lance Armor,80,20,30,55,45,45,55,30,20
+Pandreo,Axe Armor,80,20,30,55,45,45,55,30,20
+Pandreo,General,85,25,30,55,45,45,55,30,25
+Pandreo,Great Knight,80,20,30,60,45,40,65,35,20
+Pandreo,Sword Cavalier,70,15,30,55,55,25,65,40,15
+Pandreo,Lance Cavalier,70,15,30,55,55,25,65,40,15
+Pandreo,Axe Cavalier,70,15,30,55,55,25,65,40,15
+Pandreo,Paladin,75,20,30,55,60,30,70,40,15
+Pandreo,Wolf Knight,70,10,30,60,65,20,75,50,15
+Pandreo,Mage,60,5,55,50,45,15,80,35,15
+Pandreo,Sage,60,5,60,50,45,15,85,45,15
+Pandreo,Mage Knight,65,10,55,45,50,25,80,35,15
+Pandreo,Martial Monk,60,15,55,45,45,25,75,40,15
+Pandreo,Martial Master,65,15,50,45,45,30,80,40,15
+Pandreo,High Priest,60,5,55,45,50,15,85,60,15
+Pandreo,Sword Flier,65,15,35,55,55,15,65,40,15
+Pandreo,Lance Flier,65,15,35,55,55,15,65,40,15
+Pandreo,Axe Flier,65,15,35,55,55,15,65,40,15
+Pandreo,Griffin Knight,60,15,45,60,65,15,70,45,15
+Pandreo,Wyvern Knight,80,25,30,55,50,35,60,35,20
+Pandreo,Thief,65,15,30,65,60,30,60,45,15
+Bunet,Sword Fighter,75,40,10,55,55,45,40,50,10
+Bunet,Swordmaster,75,40,10,55,55,45,40,55,10
+Bunet,Hero,80,45,10,50,50,45,35,55,10
+Bunet,Lance Fighter,75,40,15,60,40,55,30,40,10
+Bunet,Halberdier,75,45,15,60,45,60,30,45,10
+Bunet,Royal Knight,70,40,25,55,50,50,45,50,10
+Bunet,Axe Fighter,90,50,10,45,45,50,25,40,15
+Bunet,Berserker,95,60,10,45,45,50,25,40,20
+Bunet,Warrior,90,50,10,50,50,55,30,40,15
+Bunet,Archer,75,45,10,65,45,50,25,45,10
+Bunet,Sniper,80,45,10,70,45,55,25,50,10
+Bunet,Bow Knight,75,40,10,60,55,45,40,55,10
+Bunet,Sword Armor,85,45,10,50,35,75,25,40,15
+Bunet,Lance Armor,85,45,10,50,35,75,25,40,15
+Bunet,Axe Armor,85,45,10,50,35,75,25,40,15
+Bunet,General,90,50,10,50,35,75,25,40,20
+Bunet,Great Knight,85,45,10,55,35,70,35,45,15
+Bunet,Sword Cavalier,75,40,10,50,45,55,35,50,10
+Bunet,Lance Cavalier,75,40,10,50,45,55,35,50,10
+Bunet,Axe Cavalier,75,40,10,50,45,55,35,50,10
+Bunet,Paladin,80,45,10,50,50,60,40,50,10
+Bunet,Wolf Knight,75,35,10,55,55,50,45,60,10
+Bunet,Mage,65,30,35,45,35,45,50,45,10
+Bunet,Sage,65,30,40,45,35,45,55,55,10
+Bunet,Mage Knight,70,35,35,40,40,55,50,45,10
+Bunet,Martial Monk,65,40,35,40,35,55,45,50,10
+Bunet,Martial Master,70,40,30,40,35,60,50,50,10
+Bunet,High Priest,65,30,35,40,40,45,55,70,10
+Bunet,Sword Flier,70,40,15,50,45,45,35,50,10
+Bunet,Lance Flier,70,40,15,50,45,45,35,50,10
+Bunet,Axe Flier,70,40,15,50,45,45,35,50,10
+Bunet,Griffin Knight,65,40,25,55,55,45,40,55,10
+Bunet,Wyvern Knight,85,50,10,50,40,65,30,45,15
+Bunet,Thief,70,40,10,60,50,60,30,55,10
+Timerra,Sentinel (Timerra),65,35,25,55,50,50,30,35,10
+Timerra,Picket,65,40,25,55,55,50,35,35,15
+Timerra,Sword Fighter,65,35,25,60,65,30,45,40,10
+Timerra,Swordmaster,65,35,25,60,65,30,45,45,10
+Timerra,Hero,70,40,25,55,60,30,40,45,10
+Timerra,Lance Fighter,65,35,30,65,50,40,35,30,10
+Timerra,Halberdier,65,40,30,65,55,45,35,35,10
+Timerra,Royal Knight,60,35,40,60,60,35,50,40,10
+Timerra,Axe Fighter,80,45,25,50,55,35,30,30,15
+Timerra,Berserker,85,55,25,50,55,35,30,30,20
+Timerra,Warrior,80,45,25,55,60,40,35,30,15
+Timerra,Archer,65,40,25,70,55,35,30,35,10
+Timerra,Sniper,70,40,25,75,55,40,30,40,10
+Timerra,Bow Knight,65,35,25,65,65,30,45,45,10
+Timerra,Sword Armor,75,40,25,55,45,60,30,30,15
+Timerra,Lance Armor,75,40,25,55,45,60,30,30,15
+Timerra,Axe Armor,75,40,25,55,45,60,30,30,15
+Timerra,General,80,45,25,55,45,60,30,30,20
+Timerra,Great Knight,75,40,25,60,45,55,40,35,15
+Timerra,Sword Cavalier,65,35,25,55,55,40,40,40,10
+Timerra,Lance Cavalier,65,35,25,55,55,40,40,40,10
+Timerra,Axe Cavalier,65,35,25,55,55,40,40,40,10
+Timerra,Paladin,70,40,25,55,60,45,45,40,10
+Timerra,Wolf Knight,65,30,25,60,65,35,50,50,10
+Timerra,Mage,55,25,50,50,45,30,55,35,10
+Timerra,Sage,55,25,55,50,45,30,60,45,10
+Timerra,Mage Knight,60,30,50,45,50,40,55,35,10
+Timerra,Martial Monk,55,35,50,45,45,40,50,40,10
+Timerra,Martial Master,60,35,45,45,45,45,55,40,10
+Timerra,High Priest,55,25,50,45,50,30,60,60,10
+Timerra,Sword Flier,60,35,30,55,55,30,40,40,10
+Timerra,Lance Flier,60,35,30,55,55,30,40,40,10
+Timerra,Axe Flier,60,35,30,55,55,30,40,40,10
+Timerra,Griffin Knight,55,35,40,60,65,30,45,45,10
+Timerra,Wyvern Knight,75,45,25,55,50,50,35,35,15
+Timerra,Thief,60,35,25,65,60,45,35,45,10
+Panette,Sword Fighter,85,55,10,55,45,30,30,30,15
+Panette,Swordmaster,85,55,10,55,45,30,30,35,15
+Panette,Hero,90,60,10,50,40,30,25,35,15
+Panette,Lance Fighter,85,55,15,60,30,40,20,20,15
+Panette,Halberdier,85,60,15,60,35,45,20,25,15
+Panette,Royal Knight,80,55,25,55,40,35,35,30,15
+Panette,Axe Fighter,100,65,10,45,35,35,15,20,20
+Panette,Berserker,105,75,10,45,35,35,15,20,25
+Panette,Warrior,100,65,10,50,40,40,20,20,20
+Panette,Archer,85,60,10,65,35,35,15,25,15
+Panette,Sniper,90,60,10,70,35,40,15,30,15
+Panette,Bow Knight,85,55,10,60,45,30,30,35,15
+Panette,Sword Armor,95,60,10,50,25,60,15,20,20
+Panette,Lance Armor,95,60,10,50,25,60,15,20,20
+Panette,Axe Armor,95,60,10,50,25,60,15,20,20
+Panette,General,100,65,10,50,25,60,15,20,25
+Panette,Great Knight,95,60,10,55,25,55,25,25,20
+Panette,Sword Cavalier,85,55,10,50,35,40,25,30,15
+Panette,Lance Cavalier,85,55,10,50,35,40,25,30,15
+Panette,Axe Cavalier,85,55,10,50,35,40,25,30,15
+Panette,Paladin,90,60,10,50,40,45,30,30,15
+Panette,Wolf Knight,85,50,10,55,45,35,35,40,15
+Panette,Mage,75,45,35,45,25,30,40,25,15
+Panette,Sage,75,45,40,45,25,30,45,35,15
+Panette,Mage Knight,80,50,35,40,30,40,40,25,15
+Panette,Martial Monk,75,55,35,40,25,40,35,30,15
+Panette,Martial Master,80,55,30,40,25,45,40,30,15
+Panette,High Priest,75,45,35,40,30,30,45,50,15
+Panette,Sword Flier,80,55,15,50,35,30,25,30,15
+Panette,Lance Flier,80,55,15,50,35,30,25,30,15
+Panette,Axe Flier,80,55,15,50,35,30,25,30,15
+Panette,Griffin Knight,75,55,25,55,45,30,30,35,15
+Panette,Wyvern Knight,95,65,10,50,30,50,20,25,20
+Panette,Thief,80,55,10,60,40,45,20,35,15
+Merrin,Sword Fighter,65,35,25,55,70,30,45,35,10
+Merrin,Swordmaster,65,35,25,55,70,30,45,40,10
+Merrin,Hero,70,40,25,50,65,30,40,40,10
+Merrin,Lance Fighter,65,35,30,60,55,40,35,25,10
+Merrin,Halberdier,65,40,30,60,60,45,35,30,10
+Merrin,Royal Knight,60,35,40,55,65,35,50,35,10
+Merrin,Axe Fighter,80,45,25,45,60,35,30,25,15
+Merrin,Berserker,85,55,25,45,60,35,30,25,20
+Merrin,Warrior,80,45,25,50,65,40,35,25,15
+Merrin,Archer,65,40,25,65,60,35,30,30,10
+Merrin,Sniper,70,40,25,70,60,40,30,35,10
+Merrin,Bow Knight,65,35,25,60,70,30,45,40,10
+Merrin,Sword Armor,75,40,25,50,50,60,30,25,15
+Merrin,Lance Armor,75,40,25,50,50,60,30,25,15
+Merrin,Axe Armor,75,40,25,50,50,60,30,25,15
+Merrin,General,80,45,25,50,50,60,30,25,20
+Merrin,Great Knight,75,40,25,55,50,55,40,30,15
+Merrin,Sword Cavalier,65,35,25,50,60,40,40,35,10
+Merrin,Lance Cavalier,65,35,25,50,60,40,40,35,10
+Merrin,Axe Cavalier,65,35,25,50,60,40,40,35,10
+Merrin,Paladin,70,40,25,50,65,45,45,35,10
+Merrin,Wolf Knight,65,30,25,55,70,35,50,45,10
+Merrin,Mage,55,25,50,45,50,30,55,30,10
+Merrin,Sage,55,25,55,45,50,30,60,40,10
+Merrin,Mage Knight,60,30,50,40,55,40,55,30,10
+Merrin,Martial Monk,55,35,50,40,50,40,50,35,10
+Merrin,Martial Master,60,35,45,40,50,45,55,35,10
+Merrin,High Priest,55,25,50,40,55,30,60,55,10
+Merrin,Sword Flier,60,35,30,50,60,30,40,35,10
+Merrin,Lance Flier,60,35,30,50,60,30,40,35,10
+Merrin,Axe Flier,60,35,30,50,60,30,40,35,10
+Merrin,Griffin Knight,55,35,40,55,70,30,45,40,10
+Merrin,Wyvern Knight,75,45,25,50,55,50,35,30,15
+Merrin,Thief,60,35,25,60,65,45,35,40,10
+Hortensia,Wing Tamer (Hortensia),40,20,35,45,60,25,80,60,0
+Hortensia,Sleipnir Rider,40,20,40,50,65,25,85,65,0
+Hortensia,Sword Fighter,50,30,20,50,70,25,70,60,0
+Hortensia,Swordmaster,50,30,20,50,70,25,70,65,0
+Hortensia,Hero,55,35,20,45,65,25,65,65,0
+Hortensia,Lance Fighter,50,30,25,55,55,35,60,50,0
+Hortensia,Halberdier,50,35,25,55,60,40,60,55,0
+Hortensia,Royal Knight,45,30,35,50,65,30,75,60,0
+Hortensia,Axe Fighter,65,40,20,40,60,30,55,50,5
+Hortensia,Berserker,70,50,20,40,60,30,55,50,10
+Hortensia,Warrior,65,40,20,45,65,35,60,50,5
+Hortensia,Archer,50,35,20,60,60,30,55,55,0
+Hortensia,Sniper,55,35,20,65,60,35,55,60,0
+Hortensia,Bow Knight,50,30,20,55,70,25,70,65,0
+Hortensia,Sword Armor,60,35,20,45,50,55,55,50,5
+Hortensia,Lance Armor,60,35,20,45,50,55,55,50,5
+Hortensia,Axe Armor,60,35,20,45,50,55,55,50,5
+Hortensia,General,65,40,20,45,50,55,55,50,10
+Hortensia,Great Knight,60,35,20,50,50,50,65,55,5
+Hortensia,Sword Cavalier,50,30,20,45,60,35,65,60,0
+Hortensia,Lance Cavalier,50,30,20,45,60,35,65,60,0
+Hortensia,Axe Cavalier,50,30,20,45,60,35,65,60,0
+Hortensia,Paladin,55,35,20,45,65,40,70,60,0
+Hortensia,Wolf Knight,50,25,20,50,70,30,75,70,0
+Hortensia,Mage,40,20,45,40,50,25,80,55,0
+Hortensia,Sage,40,20,50,40,50,25,85,65,0
+Hortensia,Mage Knight,45,25,45,35,55,35,80,55,0
+Hortensia,Martial Monk,40,30,45,35,50,35,75,60,0
+Hortensia,Martial Master,45,30,40,35,50,40,80,60,0
+Hortensia,High Priest,40,20,45,35,55,25,85,80,0
+Hortensia,Sword Flier,45,30,25,45,60,25,65,60,0
+Hortensia,Lance Flier,45,30,25,45,60,25,65,60,0
+Hortensia,Axe Flier,45,30,25,45,60,25,65,60,0
+Hortensia,Griffin Knight,40,30,35,50,70,25,70,65,0
+Hortensia,Wyvern Knight,60,40,20,45,55,45,60,55,5
+Hortensia,Thief,45,30,20,55,65,40,60,65,0
+Seadall,Sword Fighter,65,35,15,40,70,25,40,45,10
+Seadall,Swordmaster,65,35,15,40,70,25,40,50,10
+Seadall,Hero,70,40,15,35,65,25,35,50,10
+Seadall,Lance Fighter,65,35,20,45,55,35,30,35,10
+Seadall,Halberdier,65,40,20,45,60,40,30,40,10
+Seadall,Royal Knight,60,35,30,40,65,30,45,45,10
+Seadall,Axe Fighter,80,45,15,30,60,30,25,35,15
+Seadall,Berserker,85,55,15,30,60,30,25,35,20
+Seadall,Warrior,80,45,15,35,65,35,30,35,15
+Seadall,Archer,65,40,15,50,60,30,25,40,10
+Seadall,Sniper,70,40,15,55,60,35,25,45,10
+Seadall,Bow Knight,65,35,15,45,70,25,40,50,10
+Seadall,Sword Armor,75,40,15,35,50,55,25,35,15
+Seadall,Lance Armor,75,40,15,35,50,55,25,35,15
+Seadall,Axe Armor,75,40,15,35,50,55,25,35,15
+Seadall,General,80,45,15,35,50,55,25,35,20
+Seadall,Great Knight,75,40,15,40,50,50,35,40,15
+Seadall,Sword Cavalier,65,35,15,35,60,35,35,45,10
+Seadall,Lance Cavalier,65,35,15,35,60,35,35,45,10
+Seadall,Axe Cavalier,65,35,15,35,60,35,35,45,10
+Seadall,Paladin,70,40,15,35,65,40,40,45,10
+Seadall,Wolf Knight,65,30,15,40,70,30,45,55,10
+Seadall,Mage,55,25,40,30,50,25,50,40,10
+Seadall,Sage,55,25,45,30,50,25,55,50,10
+Seadall,Mage Knight,60,30,40,25,55,35,50,40,10
+Seadall,Martial Monk,55,35,40,25,50,35,45,45,10
+Seadall,Martial Master,60,35,35,25,50,40,50,45,10
+Seadall,High Priest,55,25,40,25,55,25,55,65,10
+Seadall,Sword Flier,60,35,20,35,60,25,35,45,10
+Seadall,Lance Flier,60,35,20,35,60,25,35,45,10
+Seadall,Axe Flier,60,35,20,35,60,25,35,45,10
+Seadall,Griffin Knight,55,35,30,40,70,25,40,50,10
+Seadall,Wyvern Knight,75,45,15,35,55,45,30,40,15
+Seadall,Thief,60,35,15,45,65,40,30,50,10
+Seadall,Dancer,60,35,15,30,65,35,45,55,10
+Rosado,Sword Fighter,85,55,25,55,65,30,45,30,5
+Rosado,Swordmaster,85,55,25,55,65,30,45,35,5
+Rosado,Hero,90,60,25,50,60,30,40,35,5
+Rosado,Lance Fighter,85,55,30,60,50,40,35,20,5
+Rosado,Halberdier,85,60,30,60,55,45,35,25,5
+Rosado,Royal Knight,80,55,40,55,60,35,50,30,5
+Rosado,Axe Fighter,100,65,25,45,55,35,30,20,10
+Rosado,Berserker,105,75,25,45,55,35,30,20,15
+Rosado,Warrior,100,65,25,50,60,40,35,20,10
+Rosado,Archer,85,60,25,65,55,35,30,25,5
+Rosado,Sniper,90,60,25,70,55,40,30,30,5
+Rosado,Bow Knight,85,55,25,60,65,30,45,35,5
+Rosado,Sword Armor,95,60,25,50,45,60,30,20,10
+Rosado,Lance Armor,95,60,25,50,45,60,30,20,10
+Rosado,Axe Armor,95,60,25,50,45,60,30,20,10
+Rosado,General,100,65,25,50,45,60,30,20,15
+Rosado,Great Knight,95,60,25,55,45,55,40,25,10
+Rosado,Sword Cavalier,85,55,25,50,55,40,40,30,5
+Rosado,Lance Cavalier,85,55,25,50,55,40,40,30,5
+Rosado,Axe Cavalier,85,55,25,50,55,40,40,30,5
+Rosado,Paladin,90,60,25,50,60,45,45,30,5
+Rosado,Wolf Knight,85,50,25,55,65,35,50,40,5
+Rosado,Mage,75,45,50,45,45,30,55,25,5
+Rosado,Sage,75,45,55,45,45,30,60,35,5
+Rosado,Mage Knight,80,50,50,40,50,40,55,25,5
+Rosado,Martial Monk,75,55,50,40,45,40,50,30,5
+Rosado,Martial Master,80,55,45,40,45,45,55,30,5
+Rosado,High Priest,75,45,50,40,50,30,60,50,5
+Rosado,Sword Flier,80,55,30,50,55,30,40,30,5
+Rosado,Lance Flier,80,55,30,50,55,30,40,30,5
+Rosado,Axe Flier,80,55,30,50,55,30,40,30,5
+Rosado,Griffin Knight,75,55,40,55,65,30,45,35,5
+Rosado,Wyvern Knight,95,65,25,50,50,50,35,25,10
+Rosado,Thief,80,55,25,60,60,45,35,35,5
+Goldmary,Sword Fighter,75,40,5,40,45,55,40,35,5
+Goldmary,Swordmaster,75,40,5,40,45,55,40,40,5
+Goldmary,Hero,80,45,5,35,40,55,35,40,5
+Goldmary,Lance Fighter,75,40,10,45,30,65,30,25,5
+Goldmary,Halberdier,75,45,10,45,35,70,30,30,5
+Goldmary,Royal Knight,70,40,20,40,40,60,45,35,5
+Goldmary,Axe Fighter,90,50,5,30,35,60,25,25,10
+Goldmary,Berserker,95,60,5,30,35,60,25,25,15
+Goldmary,Warrior,90,50,5,35,40,65,30,25,10
+Goldmary,Archer,75,45,5,50,35,60,25,30,5
+Goldmary,Sniper,80,45,5,55,35,65,25,35,5
+Goldmary,Bow Knight,75,40,5,45,45,55,40,40,5
+Goldmary,Sword Armor,85,45,5,35,25,85,25,25,10
+Goldmary,Lance Armor,85,45,5,35,25,85,25,25,10
+Goldmary,Axe Armor,85,45,5,35,25,85,25,25,10
+Goldmary,General,90,50,5,35,25,85,25,25,15
+Goldmary,Great Knight,85,45,5,40,25,80,35,30,10
+Goldmary,Sword Cavalier,75,40,5,35,35,65,35,35,5
+Goldmary,Lance Cavalier,75,40,5,35,35,65,35,35,5
+Goldmary,Axe Cavalier,75,40,5,35,35,65,35,35,5
+Goldmary,Paladin,80,45,5,35,40,70,40,35,5
+Goldmary,Wolf Knight,75,35,5,40,45,60,45,45,5
+Goldmary,Mage,65,30,30,30,25,55,50,30,5
+Goldmary,Sage,65,30,35,30,25,55,55,40,5
+Goldmary,Mage Knight,70,35,30,25,30,65,50,30,5
+Goldmary,Martial Monk,65,40,30,25,25,65,45,35,5
+Goldmary,Martial Master,70,40,25,25,25,70,50,35,5
+Goldmary,High Priest,65,30,30,25,30,55,55,55,5
+Goldmary,Sword Flier,70,40,10,35,35,55,35,35,5
+Goldmary,Lance Flier,70,40,10,35,35,55,35,35,5
+Goldmary,Axe Flier,70,40,10,35,35,55,35,35,5
+Goldmary,Griffin Knight,65,40,20,40,45,55,40,40,5
+Goldmary,Wyvern Knight,85,50,5,35,30,75,30,30,10
+Goldmary,Thief,70,40,5,45,40,70,30,40,5
+Lindon,Sword Fighter,75,35,25,40,60,25,55,25,10
+Lindon,Swordmaster,75,35,25,40,60,25,55,30,10
+Lindon,Hero,80,40,25,35,55,25,50,30,10
+Lindon,Lance Fighter,75,35,30,45,45,35,45,15,10
+Lindon,Halberdier,75,40,30,45,50,40,45,20,10
+Lindon,Royal Knight,70,35,40,40,55,30,60,25,10
+Lindon,Axe Fighter,90,45,25,30,50,30,40,15,15
+Lindon,Berserker,95,55,25,30,50,30,40,15,20
+Lindon,Warrior,90,45,25,35,55,35,45,15,15
+Lindon,Archer,75,40,25,50,50,30,40,20,10
+Lindon,Sniper,80,40,25,55,50,35,40,25,10
+Lindon,Bow Knight,75,35,25,45,60,25,55,30,10
+Lindon,Sword Armor,85,40,25,35,40,55,40,15,15
+Lindon,Lance Armor,85,40,25,35,40,55,40,15,15
+Lindon,Axe Armor,85,40,25,35,40,55,40,15,15
+Lindon,General,90,45,25,35,40,55,40,15,20
+Lindon,Great Knight,85,40,25,40,40,50,50,20,15
+Lindon,Sword Cavalier,75,35,25,35,50,35,50,25,10
+Lindon,Lance Cavalier,75,35,25,35,50,35,50,25,10
+Lindon,Axe Cavalier,75,35,25,35,50,35,50,25,10
+Lindon,Paladin,80,40,25,35,55,40,55,25,10
+Lindon,Wolf Knight,75,30,25,40,60,30,60,35,10
+Lindon,Mage,65,25,50,30,40,25,65,20,10
+Lindon,Sage,65,25,55,30,40,25,70,30,10
+Lindon,Mage Knight,70,30,50,25,45,35,65,20,10
+Lindon,Martial Monk,65,35,50,25,40,35,60,25,10
+Lindon,Martial Master,70,35,45,25,40,40,65,25,10
+Lindon,High Priest,65,25,50,25,45,25,70,45,10
+Lindon,Sword Flier,70,35,30,35,50,25,50,25,10
+Lindon,Lance Flier,70,35,30,35,50,25,50,25,10
+Lindon,Axe Flier,70,35,30,35,50,25,50,25,10
+Lindon,Griffin Knight,65,35,40,40,60,25,55,30,10
+Lindon,Wyvern Knight,85,45,25,35,45,45,45,20,15
+Lindon,Thief,70,35,25,45,55,40,45,30,10
+Saphir,Sword Fighter,90,45,0,40,50,30,20,30,10
+Saphir,Swordmaster,90,45,0,40,50,30,20,35,10
+Saphir,Hero,95,50,0,35,45,30,15,35,10
+Saphir,Lance Fighter,90,45,5,45,35,40,10,20,10
+Saphir,Halberdier,90,50,5,45,40,45,10,25,10
+Saphir,Royal Knight,85,45,15,40,45,35,25,30,10
+Saphir,Axe Fighter,105,55,0,30,40,35,5,20,15
+Saphir,Berserker,110,65,0,30,40,35,5,20,20
+Saphir,Warrior,105,55,0,35,45,40,10,20,15
+Saphir,Archer,90,50,0,50,40,35,5,25,10
+Saphir,Sniper,95,50,0,55,40,40,5,30,10
+Saphir,Bow Knight,90,45,0,45,50,30,20,35,10
+Saphir,Sword Armor,100,50,0,35,30,60,5,20,15
+Saphir,Lance Armor,100,50,0,35,30,60,5,20,15
+Saphir,Axe Armor,100,50,0,35,30,60,5,20,15
+Saphir,General,105,55,0,35,30,60,5,20,20
+Saphir,Great Knight,100,50,0,40,30,55,15,25,15
+Saphir,Sword Cavalier,90,45,0,35,40,40,15,30,10
+Saphir,Lance Cavalier,90,45,0,35,40,40,15,30,10
+Saphir,Axe Cavalier,90,45,0,35,40,40,15,30,10
+Saphir,Paladin,95,50,0,35,45,45,20,30,10
+Saphir,Wolf Knight,90,40,0,40,50,35,25,40,10
+Saphir,Mage,80,35,25,30,30,30,30,25,10
+Saphir,Sage,80,35,30,30,30,30,35,35,10
+Saphir,Mage Knight,85,40,25,25,35,40,30,25,10
+Saphir,Martial Monk,80,45,25,25,30,40,25,30,10
+Saphir,Martial Master,85,45,20,25,30,45,30,30,10
+Saphir,High Priest,80,35,25,25,35,30,35,50,10
+Saphir,Sword Flier,85,45,5,35,40,30,15,30,10
+Saphir,Lance Flier,85,45,5,35,40,30,15,30,10
+Saphir,Axe Flier,85,45,5,35,40,30,15,30,10
+Saphir,Griffin Knight,80,45,15,40,50,30,20,35,10
+Saphir,Wyvern Knight,100,55,0,35,35,50,10,25,15
+Saphir,Thief,85,45,0,45,45,45,10,35,10
+Veyle,Sword Fighter,50,35,45,50,50,25,50,30,0
+Veyle,Swordmaster,50,35,45,50,50,25,50,35,0
+Veyle,Hero,55,40,45,45,45,25,45,35,0
+Veyle,Lance Fighter,50,35,50,55,35,35,40,20,0
+Veyle,Halberdier,50,40,50,55,40,40,40,25,0
+Veyle,Royal Knight,45,35,60,50,45,30,55,30,0
+Veyle,Axe Fighter,65,45,45,40,40,30,35,20,5
+Veyle,Berserker,70,55,45,40,40,30,35,20,10
+Veyle,Warrior,65,45,45,45,45,35,40,20,5
+Veyle,Archer,50,40,45,60,40,30,35,25,0
+Veyle,Sniper,55,40,45,65,40,35,35,30,0
+Veyle,Bow Knight,50,35,45,55,50,25,50,35,0
+Veyle,Sword Armor,60,40,45,45,30,55,35,20,5
+Veyle,Lance Armor,60,40,45,45,30,55,35,20,5
+Veyle,Axe Armor,60,40,45,45,30,55,35,20,5
+Veyle,General,65,45,45,45,30,55,35,20,10
+Veyle,Great Knight,60,40,45,50,30,50,45,25,5
+Veyle,Sword Cavalier,50,35,45,45,40,35,45,30,0
+Veyle,Lance Cavalier,50,35,45,45,40,35,45,30,0
+Veyle,Axe Cavalier,50,35,45,45,40,35,45,30,0
+Veyle,Paladin,55,40,45,45,45,40,50,30,0
+Veyle,Wolf Knight,50,30,45,50,50,30,55,40,0
+Veyle,Mage,40,25,70,40,30,25,60,25,0
+Veyle,Sage,40,25,75,40,30,25,65,35,0
+Veyle,Mage Knight,45,30,70,35,35,35,60,25,0
+Veyle,Martial Monk,40,35,70,35,30,35,55,30,0
+Veyle,Martial Master,45,35,65,35,30,40,60,30,0
+Veyle,High Priest,40,25,70,35,35,25,65,50,0
+Veyle,Sword Flier,45,35,50,45,40,25,45,30,0
+Veyle,Lance Flier,45,35,50,45,40,25,45,30,0
+Veyle,Axe Flier,45,35,50,45,40,25,45,30,0
+Veyle,Griffin Knight,40,35,60,50,50,25,50,35,0
+Veyle,Wyvern Knight,60,45,45,45,35,45,40,25,5
+Veyle,Thief,45,35,45,55,45,40,40,35,0
+Mauvier,Sword Fighter,80,45,40,55,55,50,60,25,15
+Mauvier,Swordmaster,80,45,40,55,55,50,60,30,15
+Mauvier,Hero,85,50,40,50,50,50,55,30,15
+Mauvier,Lance Fighter,80,45,45,60,40,60,50,15,15
+Mauvier,Halberdier,80,50,45,60,45,65,50,20,15
+Mauvier,Royal Knight,75,45,55,55,50,55,65,25,15
+Mauvier,Axe Fighter,95,55,40,45,45,55,45,15,20
+Mauvier,Berserker,100,65,40,45,45,55,45,15,25
+Mauvier,Warrior,95,55,40,50,50,60,50,15,20
+Mauvier,Archer,80,50,40,65,45,55,45,20,15
+Mauvier,Sniper,85,50,40,70,45,60,45,25,15
+Mauvier,Bow Knight,80,45,40,60,55,50,60,30,15
+Mauvier,Sword Armor,90,50,40,50,35,80,45,15,20
+Mauvier,Lance Armor,90,50,40,50,35,80,45,15,20
+Mauvier,Axe Armor,90,50,40,50,35,80,45,15,20
+Mauvier,General,95,55,40,50,35,80,45,15,25
+Mauvier,Great Knight,90,50,40,55,35,75,55,20,20
+Mauvier,Sword Cavalier,80,45,40,50,45,60,55,25,15
+Mauvier,Lance Cavalier,80,45,40,50,45,60,55,25,15
+Mauvier,Axe Cavalier,80,45,40,50,45,60,55,25,15
+Mauvier,Paladin,85,50,40,50,50,65,60,25,15
+Mauvier,Wolf Knight,80,40,40,55,55,55,65,35,15
+Mauvier,Mage,70,35,65,45,35,50,70,20,15
+Mauvier,Sage,70,35,70,45,35,50,75,30,15
+Mauvier,Mage Knight,75,40,65,40,40,60,70,20,15
+Mauvier,Martial Monk,70,45,65,40,35,60,65,25,15
+Mauvier,Martial Master,75,45,60,40,35,65,70,25,15
+Mauvier,High Priest,70,35,65,40,40,50,75,45,15
+Mauvier,Sword Flier,75,45,45,50,45,50,55,25,15
+Mauvier,Lance Flier,75,45,45,50,45,50,55,25,15
+Mauvier,Axe Flier,75,45,45,50,45,50,55,25,15
+Mauvier,Griffin Knight,70,45,55,55,55,50,60,30,15
+Mauvier,Wyvern Knight,90,55,40,50,40,70,50,20,20
+Mauvier,Thief,75,45,40,60,50,65,50,30,15
+Anna,Sword Fighter,65,25,50,65,70,20,50,55,5
+Anna,Swordmaster,65,25,50,65,70,20,50,60,5
+Anna,Hero,70,30,50,60,65,20,45,60,5
+Anna,Lance Fighter,65,25,55,70,55,30,40,45,5
+Anna,Halberdier,65,30,55,70,60,35,40,50,5
+Anna,Royal Knight,60,25,65,65,65,25,55,55,5
+Anna,Axe Fighter,80,35,50,55,60,25,35,45,10
+Anna,Berserker,85,45,50,55,60,25,35,45,15
+Anna,Warrior,80,35,50,60,65,30,40,45,10
+Anna,Archer,65,30,50,75,60,25,35,50,5
+Anna,Sniper,70,30,50,80,60,30,35,55,5
+Anna,Bow Knight,65,25,50,70,70,20,50,60,5
+Anna,Sword Armor,75,30,50,60,50,50,35,45,10
+Anna,Lance Armor,75,30,50,60,50,50,35,45,10
+Anna,Axe Armor,75,30,50,60,50,50,35,45,10
+Anna,General,80,35,50,60,50,50,35,45,15
+Anna,Great Knight,75,30,50,65,50,45,45,50,10
+Anna,Sword Cavalier,65,25,50,60,60,30,45,55,5
+Anna,Lance Cavalier,65,25,50,60,60,30,45,55,5
+Anna,Axe Cavalier,65,25,50,60,60,30,45,55,5
+Anna,Paladin,70,30,50,60,65,35,50,55,5
+Anna,Wolf Knight,65,20,50,65,70,25,55,65,5
+Anna,Mage,55,15,75,55,50,20,60,50,5
+Anna,Sage,55,15,80,55,50,20,65,60,5
+Anna,Mage Knight,60,20,75,50,55,30,60,50,5
+Anna,Martial Monk,55,25,75,50,50,30,55,55,5
+Anna,Martial Master,60,25,70,50,50,35,60,55,5
+Anna,High Priest,55,15,75,50,55,20,65,75,5
+Anna,Sword Flier,60,25,55,60,60,20,45,55,5
+Anna,Lance Flier,60,25,55,60,60,20,45,55,5
+Anna,Axe Flier,60,25,55,60,60,20,45,55,5
+Anna,Griffin Knight,55,25,65,65,70,20,50,60,5
+Anna,Wyvern Knight,75,35,50,60,55,40,40,50,10
+Anna,Thief,60,25,50,70,65,35,40,60,5
+Jean,Sword Fighter,60,30,20,50,60,25,35,35,5
+Jean,Swordmaster,60,30,20,50,60,25,35,40,5
+Jean,Hero,65,35,20,45,55,25,30,40,5
+Jean,Lance Fighter,60,30,25,55,45,35,25,25,5
+Jean,Halberdier,60,35,25,55,50,40,25,30,5
+Jean,Royal Knight,55,30,35,50,55,30,40,35,5
+Jean,Axe Fighter,75,40,20,40,50,30,20,25,10
+Jean,Berserker,80,50,20,40,50,30,20,25,15
+Jean,Warrior,75,40,20,45,55,35,25,25,10
+Jean,Archer,60,35,20,60,50,30,20,30,5
+Jean,Sniper,65,35,20,65,50,35,20,35,5
+Jean,Bow Knight,60,30,20,55,60,25,35,40,5
+Jean,Sword Armor,70,35,20,45,40,55,20,25,10
+Jean,Lance Armor,70,35,20,45,40,55,20,25,10
+Jean,Axe Armor,70,35,20,45,40,55,20,25,10
+Jean,General,75,40,20,45,40,55,20,25,15
+Jean,Great Knight,70,35,20,50,40,50,30,30,10
+Jean,Sword Cavalier,60,30,20,45,50,35,30,35,5
+Jean,Lance Cavalier,60,30,20,45,50,35,30,35,5
+Jean,Axe Cavalier,60,30,20,45,50,35,30,35,5
+Jean,Paladin,65,35,20,45,55,40,35,35,5
+Jean,Wolf Knight,60,25,20,50,60,30,40,45,5
+Jean,Mage,50,20,45,40,40,25,45,30,5
+Jean,Sage,50,20,50,40,40,25,50,40,5
+Jean,Mage Knight,55,25,45,35,45,35,45,30,5
+Jean,Martial Monk,50,30,45,35,40,35,40,35,5
+Jean,Martial Master,55,30,40,35,40,40,45,35,5
+Jean,High Priest,50,20,45,35,45,25,50,55,5
+Jean,Sword Flier,55,30,25,45,50,25,30,35,5
+Jean,Lance Flier,55,30,25,45,50,25,30,35,5
+Jean,Axe Flier,55,30,25,45,50,25,30,35,5
+Jean,Griffin Knight,50,30,35,50,60,25,35,40,5
+Jean,Wyvern Knight,70,40,20,45,45,45,25,30,10
+Jean,Thief,55,30,20,55,55,40,25,40,5

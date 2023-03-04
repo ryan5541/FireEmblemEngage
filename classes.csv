@@ -1,0 +1,56 @@
+Name,HP,Str,Mag,Dex,Spd,Def,Res,Lck,Bld,Promotion
+Dragon Child,10,10,0,10,15,10,10,5,5,Base
+Divine Dragon,10,10,0,10,15,15,15,10,5,Base
+Fell Child,10,10,25,10,5,10,25,0,0,Special
+Noble,15,15,0,5,5,20,5,15,0,Base
+Avenir,15,15,0,5,10,25,5,20,5,Advanced
+Noble,0,5,10,5,5,5,10,20,0,Base
+Vidame,5,10,15,5,5,5,15,20,0,Advanced
+Lord,15,20,0,10,10,10,0,5,0,Base
+Successeur,15,20,0,10,15,15,0,10,5,Advanced
+Lord,10,10,0,25,10,10,0,5,0,Base
+Tireur d’élite,10,10,0,30,10,15,5,5,0,Advanced
+Wing Tamer,5,0,20,0,0,10,20,0,0,Base
+Lindwurm,5,0,25,5,0,15,25,0,0,Advanced
+Wing Tamer,0,0,15,10,10,0,25,10,0,Base
+Sleipnir Rider,0,0,20,15,15,0,30,15,0,Advanced
+Sentinel,10,10,0,10,5,20,0,5,0,Base
+Picket,10,15,0,10,10,20,5,5,5,Advanced
+Sentinel,10,5,0,15,15,5,15,0,0,Base
+Cupido,10,5,5,20,20,5,20,0,0,Advanced
+Melusine,10,10,10,10,15,10,10,0,5,Base
+Sword Fighter,10,10,0,15,20,0,15,10,0,Advanced
+Swordmaster,10,10,0,15,20,0,15,15,0,Base
+Hero,15,15,0,10,15,0,10,15,0,Advanced
+Lance Fighter,10,10,5,20,5,10,5,0,0,Base
+Halberdier,10,15,5,20,10,15,5,5,0,Advanced
+Royal Knight,5,10,15,15,15,5,20,10,0,Base
+Axe Fighter,25,20,0,5,10,5,0,0,5,Advanced
+Berserker,30,30,0,5,10,5,0,0,10,Base
+Warrior,25,20,0,10,15,10,5,0,5,Advanced
+Archer,10,15,0,25,10,5,0,5,0,Base
+Sniper,15,15,0,30,10,10,0,10,0,Advanced
+Bow Knight,10,10,0,20,20,0,15,15,0,Base
+Sword Armor,20,15,0,10,0,30,0,0,5,Advanced
+Lance Armor,20,15,0,10,0,30,0,0,5,Base
+Axe Armor,20,15,0,10,0,30,0,0,5,Advanced
+General,25,20,0,10,0,30,0,0,10,Base
+Great Knight,20,15,0,15,0,25,10,5,5,Advanced
+Sword Cavalier,10,10,0,10,10,10,10,10,0,Base
+Lance Cavalier,10,10,0,10,10,10,10,10,0,Advanced
+Axe Cavalier,10,10,0,10,10,10,10,10,0,Base
+Paladin,15,15,0,10,15,15,15,10,0,Advanced
+Wolf Knight,10,5,0,15,20,5,20,20,0,Base
+Mage,0,0,25,5,0,0,25,5,0,Advanced
+Sage,0,0,30,5,0,0,30,15,0,Base
+Mage Knight,5,5,25,0,5,10,25,5,0,Advanced
+Martial Monk,0,10,25,0,0,10,20,10,0,Base
+Martial Master,5,10,20,0,0,15,25,10,0,Advanced
+High Priest,0,0,25,0,5,0,30,30,0,Base
+Sword Flier,5,10,5,10,10,0,10,10,0,Advanced
+Lance Flier,5,10,5,10,10,0,10,10,0,Base
+Axe Flier,5,10,5,10,10,0,10,10,0,Advanced
+Griffin Knight,0,10,15,15,20,0,15,15,0,Base
+Wyvern Knight,20,20,0,10,5,20,5,5,5,Advanced
+Thief,5,10,0,20,15,15,5,15,0,Special
+Dancer,5,10,0,5,15,10,20,20,0,Special
